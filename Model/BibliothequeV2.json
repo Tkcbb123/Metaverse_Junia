@@ -1,0 +1,4927 @@
+{
+  "DataVersion": 0,
+  "Entities": [
+    {
+    "id": "{61564a8c-a6c2-4799-a20f-be38a34ee0b0}",
+    "type": "Model",
+    "lastEdited": 1681475197236116,
+    "parentID": "{c36aecc7-402a-47e0-886d-7db5ea09578a}",
+    "name": "Table (2)",
+    "position": {
+        "x": 1.8499319553375244,
+        "y": 3.5762786865234375e-7,
+        "z": 0.0133514404296875
+    },
+    "dimensions": {
+        "x": 1.8634371757507324,
+        "y": 1.1396154165267944,
+        "z": 1.1204605102539062
+    },
+    "rotation": {
+        "x": -0.0000152587890625,
+        "y": 0.0000152587890625,
+        "z": -0.0000152587890625,
+        "w": 1
+    },
+    "created": 1680845920272384,
+    "lastEditedBy": "{5a07d9c1-8ae3-4ff0-a21a-50487d495de9}",
+    "queryAACube": {
+        "x": -83.00723266601562,
+        "y": -2.8761658668518066,
+        "z": 5.405215263366699,
+        "scale": 2.4549038410186768
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "shapeType": "simple-hull",
+    "modelURL": "C:\\Users\\fly80\\Desktop\\Model\\Table\\Desk OBJ.obj",
+    "blendshapeCoefficients": "{\n}\n",
+    "useOriginalPivot": true,
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{a86cccd1-eb4f-4189-8193-ed57f491c614}",
+    "type": "Model",
+    "lastEdited": 1681475197226669,
+    "parentID": "{c36aecc7-402a-47e0-886d-7db5ea09578a}",
+    "name": "Table (2)",
+    "position": {
+        "x": 0.00009274482727050781,
+        "y": 0,
+        "z": 1.091217041015625
+    },
+    "dimensions": {
+        "x": 1.8600000143051147,
+        "y": 1.1396000385284424,
+        "z": 1.1204605102539062
+    },
+    "rotation": {
+        "x": -0.0000152587890625,
+        "y": 0.0000152587890625,
+        "z": -0.0000152587890625,
+        "w": 1
+    },
+    "created": 1680845920272384,
+    "lastEditedBy": "{5a07d9c1-8ae3-4ff0-a21a-50487d495de9}",
+    "queryAACube": {
+        "x": -84.05652618408203,
+        "y": -2.874812602996826,
+        "z": 3.5410656929016113,
+        "scale": 2.4522886276245117
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "shapeType": "simple-hull",
+    "modelURL": "C:\\Users\\fly80\\Desktop\\Model\\Table\\Desk OBJ.obj",
+    "blendshapeCoefficients": "{\n}\n",
+    "useOriginalPivot": true,
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{de1a2ea3-b1fb-42b9-879e-dc9f0964e91d}",
+    "type": "Model",
+    "lastEdited": 1681475197214307,
+    "parentID": "{c36aecc7-402a-47e0-886d-7db5ea09578a}",
+    "name": "Office C (2)",
+    "userData": "{\"canClickOnModelToSit\":false}",
+    "position": {
+        "x": 0.03733789920806885,
+        "y": -0.42155563831329346,
+        "z": 2.309417724609375
+    },
+    "dimensions": {
+        "x": 1,
+        "y": 1.0000001192092896,
+        "z": 1
+    },
+    "rotation": {
+        "x": -0.0033722519874572754,
+        "y": 0.7096818685531616,
+        "z": 0.0020294189453125,
+        "w": -0.7045242786407471
+    },
+    "created": 1680845920272384,
+    "lastEditedBy": "{5a07d9c1-8ae3-4ff0-a21a-50487d495de9}",
+    "queryAACube": {
+        "x": -84.91504669189453,
+        "y": -2.936196804046631,
+        "z": 3.9205498695373535,
+        "scale": 1.732050895690918
+    },
+    "grab": {
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "gravity": {
+        "x": 0,
+        "y": -3,
+        "z": 0
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "restitution": 0,
+    "friction": 0,
+    "script": "https://raw.githubusercontent.com/vircadia/vircadia-content/master/usefulUtilities/sit/sitClient.js",
+    "scriptTimestamp": 1680750542848,
+    "serverScripts": "https://raw.githubusercontent.com/vircadia/vircadia-content/master/usefulUtilities/sit/sitServer.js",
+    "shapeType": "simple-hull",
+    "modelURL": "C:\\Users\\fly80\\Desktop\\Model\\Office Chair.fbx",
+    "blendshapeCoefficients": "{\n}\n",
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{cc0330fe-fec3-4dfd-a702-eb37fdaf4702}",
+    "type": "Model",
+    "lastEdited": 1681475197216993,
+    "parentID": "{c36aecc7-402a-47e0-886d-7db5ea09578a}",
+    "name": "Office C (2)",
+    "userData": "{\"canClickOnModelToSit\":false}",
+    "position": {
+        "x": 1.9277453422546387,
+        "y": -0.41826462745666504,
+        "z": 2.3239364624023438
+    },
+    "dimensions": {
+        "x": 1,
+        "y": 1.0000001192092896,
+        "z": 1
+    },
+    "rotation": {
+        "x": -0.003952085971832275,
+        "y": 0.7091020345687866,
+        "z": 0.0020294189453125,
+        "w": -0.7051041126251221
+    },
+    "created": 1680845920272384,
+    "lastEditedBy": "{5a07d9c1-8ae3-4ff0-a21a-50487d495de9}",
+    "queryAACube": {
+        "x": -84.9572982788086,
+        "y": -2.9329047203063965,
+        "z": 5.81054162979126,
+        "scale": 1.732050895690918
+    },
+    "grab": {
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "gravity": {
+        "x": 0,
+        "y": -3,
+        "z": 0
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "restitution": 0,
+    "friction": 0,
+    "script": "https://raw.githubusercontent.com/vircadia/vircadia-content/master/usefulUtilities/sit/sitClient.js",
+    "scriptTimestamp": 1680750542848,
+    "serverScripts": "https://raw.githubusercontent.com/vircadia/vircadia-content/master/usefulUtilities/sit/sitServer.js",
+    "shapeType": "simple-hull",
+    "modelURL": "C:\\Users\\fly80\\Desktop\\Model\\Office Chair.fbx",
+    "blendshapeCoefficients": "{\n}\n",
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{265cd836-41d5-43a2-b63f-1130a5654d13}",
+    "type": "Model",
+    "lastEdited": 1681475197251415,
+    "parentID": "{c36aecc7-402a-47e0-886d-7db5ea09578a}",
+    "name": "Table (2)",
+    "position": {
+        "x": 1.8496345281600952,
+        "y": 3.5762786865234375e-7,
+        "z": 1.0902023315429688
+    },
+    "dimensions": {
+        "x": 1.8634371757507324,
+        "y": 1.1396154165267944,
+        "z": 1.1204605102539062
+    },
+    "rotation": {
+        "x": -0.0000152587890625,
+        "y": 0.0000152587890625,
+        "z": -0.0000152587890625,
+        "w": 1
+    },
+    "created": 1680845920272384,
+    "lastEditedBy": "{5a07d9c1-8ae3-4ff0-a21a-50487d495de9}",
+    "queryAACube": {
+        "x": -84.0839614868164,
+        "y": -2.876119375228882,
+        "z": 5.389116287231445,
+        "scale": 2.4549038410186768
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "shapeType": "simple-hull",
+    "modelURL": "C:\\Users\\fly80\\Desktop\\Model\\Table\\Desk OBJ.obj",
+    "blendshapeCoefficients": "{\n}\n",
+    "useOriginalPivot": true,
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{a9159ecd-694d-43f4-83bc-db740fd7cd50}",
+    "type": "Model",
+    "lastEdited": 1681475197226040,
+    "parentID": "{b29a6bb5-0020-47b6-96ba-652e17dd218c}",
+    "name": "Table",
+    "position": {
+        "x": 1.8495464324951172,
+        "y": 2.384185791015625e-7,
+        "z": 1.0903559923171997
+    },
+    "dimensions": {
+        "x": 1.8634371757507324,
+        "y": 1.1396154165267944,
+        "z": 1.1204605102539062
+    },
+    "rotation": {
+        "x": -0.0000152587890625,
+        "y": -0.0000152587890625,
+        "z": -0.0000152587890625,
+        "w": 1
+    },
+    "created": 1680840148910080,
+    "lastEditedBy": "{5a07d9c1-8ae3-4ff0-a21a-50487d495de9}",
+    "queryAACube": {
+        "x": -84.15516662597656,
+        "y": -2.8761179447174072,
+        "z": 10.26882553100586,
+        "scale": 2.4549038410186768
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "shapeType": "simple-hull",
+    "modelURL": "C:\\Users\\fly80\\Desktop\\Model\\Table\\Desk OBJ.obj",
+    "blendshapeCoefficients": "{\n}\n",
+    "useOriginalPivot": true,
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{046687a2-ecb3-4303-b0d5-52347c60a472}",
+    "type": "Model",
+    "lastEdited": 1681475197261236,
+    "parentID": "{b29a6bb5-0020-47b6-96ba-652e17dd218c}",
+    "name": "Table",
+    "position": {
+        "x": 1.8499380350112915,
+        "y": 2.384185791015625e-7,
+        "z": 0.01349639892578125
+    },
+    "dimensions": {
+        "x": 1.8634371757507324,
+        "y": 1.1396154165267944,
+        "z": 1.1204605102539062
+    },
+    "rotation": {
+        "x": -0.0000152587890625,
+        "y": -0.0000152587890625,
+        "z": -0.0000152587890625,
+        "w": 1
+    },
+    "created": 1680840148910080,
+    "lastEditedBy": "{5a07d9c1-8ae3-4ff0-a21a-50487d495de9}",
+    "queryAACube": {
+        "x": -83.07843017578125,
+        "y": -2.876164436340332,
+        "z": 10.285017967224121,
+        "scale": 2.4549038410186768
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "shapeType": "simple-hull",
+    "modelURL": "C:\\Users\\fly80\\Desktop\\Model\\Table\\Desk OBJ.obj",
+    "blendshapeCoefficients": "{\n}\n",
+    "useOriginalPivot": true,
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{40bde9fe-385c-4774-8f08-62cddcd763d2}",
+    "type": "Model",
+    "lastEdited": 1681475197247565,
+    "parentID": "{b29a6bb5-0020-47b6-96ba-652e17dd218c}",
+    "name": "Office C",
+    "userData": "{\"canClickOnModelToSit\":false}",
+    "position": {
+        "x": 1.9275493621826172,
+        "y": -0.41826462745666504,
+        "z": 2.324108123779297
+    },
+    "dimensions": {
+        "x": 1,
+        "y": 1.0000001192092896,
+        "z": 1
+    },
+    "rotation": {
+        "x": -0.0038910508155822754,
+        "y": 0.7091935873031616,
+        "z": 0.0020294189453125,
+        "w": -0.7050125598907471
+    },
+    "created": 1680840148910080,
+    "lastEditedBy": "{5a07d9c1-8ae3-4ff0-a21a-50487d495de9}",
+    "queryAACube": {
+        "x": -85.02851867675781,
+        "y": -2.9329030513763428,
+        "z": 10.690141677856445,
+        "scale": 1.732050895690918
+    },
+    "grab": {
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "gravity": {
+        "x": 0,
+        "y": -3,
+        "z": 0
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "restitution": 0,
+    "friction": 0,
+    "script": "https://raw.githubusercontent.com/vircadia/vircadia-content/master/usefulUtilities/sit/sitClient.js",
+    "scriptTimestamp": 1680750542848,
+    "serverScripts": "https://raw.githubusercontent.com/vircadia/vircadia-content/master/usefulUtilities/sit/sitServer.js",
+    "shapeType": "simple-hull",
+    "modelURL": "C:\\Users\\fly80\\Desktop\\Model\\Office Chair.fbx",
+    "blendshapeCoefficients": "{\n}\n",
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{06545c73-95d0-4cfc-826f-396ce24bd41c}",
+    "type": "Model",
+    "lastEdited": 1681475197260792,
+    "parentID": "{b29a6bb5-0020-47b6-96ba-652e17dd218c}",
+    "name": "Table",
+    "position": {
+        "x": 8.828938007354736e-7,
+        "y": 0,
+        "z": 1.0912094116210938
+    },
+    "dimensions": {
+        "x": 1.8600000143051147,
+        "y": 1.1396000385284424,
+        "z": 1.1204605102539062
+    },
+    "rotation": {
+        "x": -0.0000152587890625,
+        "y": -0.0000152587890625,
+        "z": -0.0000152587890625,
+        "w": 1
+    },
+    "created": 1680840148910080,
+    "lastEditedBy": "{5a07d9c1-8ae3-4ff0-a21a-50487d495de9}",
+    "queryAACube": {
+        "x": -84.12757110595703,
+        "y": -2.8748111724853516,
+        "z": 8.420774459838867,
+        "scale": 2.4522886276245117
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "shapeType": "simple-hull",
+    "modelURL": "C:\\Users\\fly80\\Desktop\\Model\\Table\\Desk OBJ.obj",
+    "blendshapeCoefficients": "{\n}\n",
+    "useOriginalPivot": true,
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{73c93c67-aa5d-4ab7-880b-ebc5ed2d959a}",
+    "type": "Model",
+    "lastEdited": 1681475197234383,
+    "parentID": "{b29a6bb5-0020-47b6-96ba-652e17dd218c}",
+    "name": "Office C",
+    "userData": "{\"canClickOnModelToSit\":false}",
+    "position": {
+        "x": 0.03714108467102051,
+        "y": -0.42155566811561584,
+        "z": 2.309420585632324
+    },
+    "dimensions": {
+        "x": 1,
+        "y": 1.0000001192092896,
+        "z": 1
+    },
+    "rotation": {
+        "x": -0.0033417344093322754,
+        "y": 0.7097429037094116,
+        "z": 0.0020294189453125,
+        "w": -0.7044632434844971
+    },
+    "created": 1680840148910080,
+    "lastEditedBy": "{5a07d9c1-8ae3-4ff0-a21a-50487d495de9}",
+    "queryAACube": {
+        "x": -84.98609924316406,
+        "y": -2.9361953735351562,
+        "z": 8.800153732299805,
+        "scale": 1.732050895690918
+    },
+    "grab": {
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "gravity": {
+        "x": 0,
+        "y": -3,
+        "z": 0
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "restitution": 0,
+    "friction": 0,
+    "script": "https://raw.githubusercontent.com/vircadia/vircadia-content/master/usefulUtilities/sit/sitClient.js",
+    "scriptTimestamp": 1680750542848,
+    "serverScripts": "https://raw.githubusercontent.com/vircadia/vircadia-content/master/usefulUtilities/sit/sitServer.js",
+    "shapeType": "simple-hull",
+    "modelURL": "C:\\Users\\fly80\\Desktop\\Model\\Office Chair.fbx",
+    "blendshapeCoefficients": "{\n}\n",
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{a70ff725-18c1-4fc1-a41e-710407b006da}",
+    "type": "Model",
+    "lastEdited": 1681475197227247,
+    "parentID": "{5907ade3-3d2d-4dfb-a43b-0022f5ba980a}",
+    "name": "Office C (2)",
+    "userData": "{\"canClickOnModelToSit\":false}",
+    "position": {
+        "x": -1.482664704322815,
+        "y": -0.4077932834625244,
+        "z": -0.1519533395767212
+    },
+    "dimensions": {
+        "x": 1.0000004768371582,
+        "y": 1.000000238418579,
+        "z": 1.0000004768371582
+    },
+    "rotation": {
+        "x": -0.0012969970703125,
+        "y": 0.999969482421875,
+        "z": 0.004623532295227051,
+        "w": 0.0029144287109375
+    },
+    "created": 1680841759522816,
+    "lastEditedBy": "{5a07d9c1-8ae3-4ff0-a21a-50487d495de9}",
+    "queryAACube": {
+        "x": -71.66250610351562,
+        "y": -2.9133825302124023,
+        "z": 10.115193367004395,
+        "scale": 1.7320556640625
+    },
+    "grab": {
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "gravity": {
+        "x": 0,
+        "y": -3,
+        "z": 0
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "restitution": 0.3499999940395355,
+    "friction": 0,
+    "script": "https://raw.githubusercontent.com/vircadia/vircadia-content/master/usefulUtilities/sit/sitClient.js",
+    "scriptTimestamp": 1680750542848,
+    "serverScripts": "https://raw.githubusercontent.com/vircadia/vircadia-content/master/usefulUtilities/sit/sitServer.js",
+    "shapeType": "simple-hull",
+    "modelURL": "C:\\Users\\fly80\\Desktop\\Model\\Office Chair.fbx",
+    "blendshapeCoefficients": "{\n}\n",
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{5b9847c5-421b-41cd-b849-07475adb1d04}",
+    "type": "Model",
+    "lastEdited": 1681475197236597,
+    "parentID": "{5907ade3-3d2d-4dfb-a43b-0022f5ba980a}",
+    "name": "Office C (3)",
+    "userData": "{\"canClickOnModelToSit\":false}",
+    "position": {
+        "x": -1.419209361076355,
+        "y": -0.4162861704826355,
+        "z": 1.116394281387329
+    },
+    "dimensions": {
+        "x": 1,
+        "y": 1.0000001192092896,
+        "z": 1
+    },
+    "rotation": {
+        "x": -0.0016021728515625,
+        "y": 0.999969482421875,
+        "z": 0.004409909248352051,
+        "w": 0.0023345947265625
+    },
+    "created": 1680875179737088,
+    "lastEditedBy": "{5a07d9c1-8ae3-4ff0-a21a-50487d495de9}",
+    "queryAACube": {
+        "x": -72.93164825439453,
+        "y": -2.9218201637268066,
+        "z": 10.160030364990234,
+        "scale": 1.732050895690918
+    },
+    "grab": {
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "gravity": {
+        "x": 0,
+        "y": -3,
+        "z": 0
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "restitution": 0,
+    "friction": 0,
+    "script": "https://raw.githubusercontent.com/vircadia/vircadia-content/master/usefulUtilities/sit/sitClient.js",
+    "scriptTimestamp": 1680750542848,
+    "serverScripts": "https://raw.githubusercontent.com/vircadia/vircadia-content/master/usefulUtilities/sit/sitServer.js",
+    "shapeType": "simple-hull",
+    "modelURL": "C:\\Users\\fly80\\Desktop\\Model\\Office Chair.fbx",
+    "blendshapeCoefficients": "{\n}\n",
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{e25768e0-2614-4a53-b4bb-747fd10c74cf}",
+    "type": "Model",
+    "lastEdited": 1681475197213925,
+    "parentID": "{23f1be53-9263-41d0-a63f-35d6edc9fe74}",
+    "name": "Office C Solo (2)",
+    "userData": "{\"canClickOnModelToSit\":false}",
+    "position": {
+        "x": -1.103118896484375,
+        "y": -0.3980621099472046,
+        "z": -0.018648413941264153
+    },
+    "dimensions": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+    },
+    "rotation": {
+        "x": -0.0016326904296875,
+        "y": 0.999969482421875,
+        "z": 0.004440426826477051,
+        "w": 0.0028839111328125
+    },
+    "created": 1680875850825728,
+    "lastEditedBy": "{5a07d9c1-8ae3-4ff0-a21a-50487d495de9}",
+    "queryAACube": {
+        "x": -72.9719009399414,
+        "y": -2.8933069705963135,
+        "z": 7.887732982635498,
+        "scale": 1.7320507764816284
+    },
+    "grab": {
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "gravity": {
+        "x": 0,
+        "y": -3,
+        "z": 0
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "restitution": 0,
+    "friction": 0,
+    "script": "https://raw.githubusercontent.com/vircadia/vircadia-content/master/usefulUtilities/sit/sitClient.js",
+    "scriptTimestamp": 1680750542848,
+    "serverScripts": "https://raw.githubusercontent.com/vircadia/vircadia-content/master/usefulUtilities/sit/sitServer.js",
+    "shapeType": "simple-hull",
+    "modelURL": "C:\\Users\\fly80\\Desktop\\Model\\Office Chair.fbx",
+    "blendshapeCoefficients": "{\n}\n",
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{f9a03a6b-90f8-49b0-b590-90f38f592703}",
+    "type": "Model",
+    "lastEdited": 1681475197212364,
+    "parentID": "{5907ade3-3d2d-4dfb-a43b-0022f5ba980a}",
+    "name": "Table (2)",
+    "position": {
+        "x": 1.8496114015579224,
+        "y": 2.384185791015625e-7,
+        "z": 1.0901718139648438
+    },
+    "dimensions": {
+        "x": 1.8634371757507324,
+        "y": 1.1396154165267944,
+        "z": 1.1204605102539062
+    },
+    "rotation": {
+        "x": -0.0000152587890625,
+        "y": 0.0000152587890625,
+        "z": -0.0000152587890625,
+        "w": 1
+    },
+    "created": 1680841759522816,
+    "lastEditedBy": "{5a07d9c1-8ae3-4ff0-a21a-50487d495de9}",
+    "queryAACube": {
+        "x": -73.31480407714844,
+        "y": -2.866960287094116,
+        "z": 13.067459106445312,
+        "scale": 2.4549038410186768
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "shapeType": "simple-hull",
+    "modelURL": "C:\\Users\\fly80\\Desktop\\Model\\Table\\Desk OBJ.obj",
+    "blendshapeCoefficients": "{\n}\n",
+    "useOriginalPivot": true,
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{c8c0ca71-fb91-4af5-8b9d-20010a6e3cda}",
+    "type": "Model",
+    "lastEdited": 1681475197217860,
+    "parentID": "{5907ade3-3d2d-4dfb-a43b-0022f5ba980a}",
+    "name": "Table (2)",
+    "position": {
+        "x": 1.8499095439910889,
+        "y": 2.384185791015625e-7,
+        "z": 0.01334381103515625
+    },
+    "dimensions": {
+        "x": 1.8634371757507324,
+        "y": 1.1396154165267944,
+        "z": 1.1204605102539062
+    },
+    "rotation": {
+        "x": -0.0000152587890625,
+        "y": 0.0000152587890625,
+        "z": -0.0000152587890625,
+        "w": 1
+    },
+    "created": 1680841759522816,
+    "lastEditedBy": "{5a07d9c1-8ae3-4ff0-a21a-50487d495de9}",
+    "queryAACube": {
+        "x": -72.23809814453125,
+        "y": -2.867006778717041,
+        "z": 13.083558082580566,
+        "scale": 2.4549038410186768
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "shapeType": "simple-hull",
+    "modelURL": "C:\\Users\\fly80\\Desktop\\Model\\Table\\Desk OBJ.obj",
+    "blendshapeCoefficients": "{\n}\n",
+    "useOriginalPivot": true,
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{7a720508-f4d9-4f3a-ac3d-ff4556d07656}",
+    "type": "Model",
+    "lastEdited": 1681475197232675,
+    "parentID": "{5907ade3-3d2d-4dfb-a43b-0022f5ba980a}",
+    "name": "Table (2)",
+    "position": {
+        "x": 0.000102996826171875,
+        "y": 0,
+        "z": 1.0911865234375
+    },
+    "dimensions": {
+        "x": 1.8600000143051147,
+        "y": 1.1396000385284424,
+        "z": 1.1204605102539062
+    },
+    "rotation": {
+        "x": -0.0000152587890625,
+        "y": 0.0000152587890625,
+        "z": -0.0000152587890625,
+        "w": 1
+    },
+    "created": 1680841759522816,
+    "lastEditedBy": "{5a07d9c1-8ae3-4ff0-a21a-50487d495de9}",
+    "queryAACube": {
+        "x": -73.28736877441406,
+        "y": -2.8656535148620605,
+        "z": 11.219442367553711,
+        "scale": 2.4522886276245117
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "shapeType": "simple-hull",
+    "modelURL": "C:\\Users\\fly80\\Desktop\\Model\\Table\\Desk OBJ.obj",
+    "blendshapeCoefficients": "{\n}\n",
+    "useOriginalPivot": true,
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{ae804dd9-df55-42bd-ac29-7f4e8a3289a9}",
+    "type": "Model",
+    "lastEdited": 1681475197224524,
+    "parentID": "{aa7bbd8e-e509-44a3-80f8-40851647a659}",
+    "name": "Office C Solo",
+    "userData": "{\"canClickOnModelToSit\":false}",
+    "position": {
+        "x": -1.1031112670898438,
+        "y": -0.3980621099472046,
+        "z": -0.018648412078619003
+    },
+    "dimensions": {
+        "x": 1,
+        "y": 1.0000001192092896,
+        "z": 1
+    },
+    "rotation": {
+        "x": -0.0016326904296875,
+        "y": 0.999969482421875,
+        "z": 0.004440426826477051,
+        "w": 0.0028839111328125
+    },
+    "created": 1680875582390272,
+    "lastEditedBy": "{5a07d9c1-8ae3-4ff0-a21a-50487d495de9}",
+    "queryAACube": {
+        "x": -72.97161865234375,
+        "y": -2.8930282592773438,
+        "z": 17.01492691040039,
+        "scale": 1.732050895690918
+    },
+    "grab": {
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "gravity": {
+        "x": 0,
+        "y": -3,
+        "z": 0
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "restitution": 0,
+    "friction": 0,
+    "script": "https://raw.githubusercontent.com/vircadia/vircadia-content/master/usefulUtilities/sit/sitClient.js",
+    "scriptTimestamp": 1680750542848,
+    "serverScripts": "https://raw.githubusercontent.com/vircadia/vircadia-content/master/usefulUtilities/sit/sitServer.js",
+    "shapeType": "simple-hull",
+    "modelURL": "C:\\Users\\fly80\\Desktop\\Model\\Office Chair.fbx",
+    "blendshapeCoefficients": "{\n}\n",
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{d39d949a-2393-48a7-9e4a-9285bee39cf2}",
+    "type": "Model",
+    "lastEdited": 1681475197215355,
+    "parentID": "{b29a6bb5-0020-47b6-96ba-652e17dd218c}",
+    "name": "Office C",
+    "userData": "{\"canClickOnModelToSit\":false}",
+    "position": {
+        "x": 0.050519466400146484,
+        "y": -0.3947184085845947,
+        "z": -1.2734663486480713
+    },
+    "dimensions": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+    },
+    "rotation": {
+        "x": 0.0019683837890625,
+        "y": 0.7054092884063721,
+        "z": 0.004257321357727051,
+        "w": 0.7087358236312866
+    },
+    "created": 1680840148910080,
+    "lastEditedBy": "{5a07d9c1-8ae3-4ff0-a21a-50487d495de9}",
+    "queryAACube": {
+        "x": -81.40379333496094,
+        "y": -2.909512758255005,
+        "z": 8.866105079650879,
+        "scale": 1.7320507764816284
+    },
+    "grab": {
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "gravity": {
+        "x": 0,
+        "y": -3,
+        "z": 0
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "restitution": 0,
+    "friction": 0,
+    "script": "https://raw.githubusercontent.com/vircadia/vircadia-content/master/usefulUtilities/sit/sitClient.js",
+    "scriptTimestamp": 1680750542848,
+    "serverScripts": "https://raw.githubusercontent.com/vircadia/vircadia-content/master/usefulUtilities/sit/sitServer.js",
+    "shapeType": "simple-hull",
+    "modelURL": "C:\\Users\\fly80\\Desktop\\Model\\Office Chair.fbx",
+    "blendshapeCoefficients": "{\n}\n",
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{4f81114c-c2e0-4d25-b719-25adac318ba6}",
+    "type": "Model",
+    "lastEdited": 1681475197241634,
+    "parentID": "{b29a6bb5-0020-47b6-96ba-652e17dd218c}",
+    "name": "Office C",
+    "userData": "{\"canClickOnModelToSit\":false}",
+    "position": {
+        "x": 1.7683236598968506,
+        "y": -0.38849058747291565,
+        "z": -1.232790470123291
+    },
+    "dimensions": {
+        "x": 1,
+        "y": 1.0000001192092896,
+        "z": 1
+    },
+    "rotation": {
+        "x": 0.0019989013671875,
+        "y": 0.7054092884063721,
+        "z": 0.004196286201477051,
+        "w": 0.7087358236312866
+    },
+    "created": 1680840148910080,
+    "lastEditedBy": "{5a07d9c1-8ae3-4ff0-a21a-50487d495de9}",
+    "queryAACube": {
+        "x": -81.46966552734375,
+        "y": -2.903282642364502,
+        "z": 10.583127975463867,
+        "scale": 1.732050895690918
+    },
+    "grab": {
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "gravity": {
+        "x": 0,
+        "y": -3,
+        "z": 0
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "restitution": 0,
+    "friction": 0,
+    "script": "https://raw.githubusercontent.com/vircadia/vircadia-content/master/usefulUtilities/sit/sitClient.js",
+    "scriptTimestamp": 1680750542848,
+    "serverScripts": "https://raw.githubusercontent.com/vircadia/vircadia-content/master/usefulUtilities/sit/sitServer.js",
+    "shapeType": "simple-hull",
+    "modelURL": "C:\\Users\\fly80\\Desktop\\Model\\Office Chair.fbx",
+    "blendshapeCoefficients": "{\n}\n",
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{ac2f2785-1be4-4583-aec3-188877ab0004}",
+    "type": "Model",
+    "lastEdited": 1681475197225035,
+    "parentID": "{5907ade3-3d2d-4dfb-a43b-0022f5ba980a}",
+    "name": "Office C (3)",
+    "userData": "{\"canClickOnModelToSit\":false}",
+    "position": {
+        "x": 2.9895706176757812,
+        "y": -0.39919179677963257,
+        "z": 0.8802282810211182
+    },
+    "dimensions": {
+        "x": 1,
+        "y": 1.0000001192092896,
+        "z": 1
+    },
+    "rotation": {
+        "x": -0.004470884799957275,
+        "y": 0.0023956298828125,
+        "z": -0.0016021728515625,
+        "w": -1
+    },
+    "created": 1680875313954816,
+    "lastEditedBy": "{5a07d9c1-8ae3-4ff0-a21a-50487d495de9}",
+    "queryAACube": {
+        "x": -72.76020050048828,
+        "y": -2.9047346115112305,
+        "z": 14.571802139282227,
+        "scale": 1.732050895690918
+    },
+    "grab": {
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "gravity": {
+        "x": 0,
+        "y": -3,
+        "z": 0
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "restitution": 0,
+    "friction": 0,
+    "script": "https://raw.githubusercontent.com/vircadia/vircadia-content/master/usefulUtilities/sit/sitClient.js",
+    "scriptTimestamp": 1680750542848,
+    "serverScripts": "https://raw.githubusercontent.com/vircadia/vircadia-content/master/usefulUtilities/sit/sitServer.js",
+    "shapeType": "simple-hull",
+    "modelURL": "C:\\Users\\fly80\\Desktop\\Model\\Office Chair.fbx",
+    "blendshapeCoefficients": "{\n}\n",
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{94b06413-85fc-4dab-b0e0-570513971677}",
+    "type": "Model",
+    "lastEdited": 1681475197228426,
+    "parentID": "{c36aecc7-402a-47e0-886d-7db5ea09578a}",
+    "name": "Office C (2)",
+    "userData": "{\"canClickOnModelToSit\":false}",
+    "position": {
+        "x": -0.13810312747955322,
+        "y": -0.3947059214115143,
+        "z": -1.5587055683135986
+    },
+    "dimensions": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+    },
+    "rotation": {
+        "x": 0.0025177001953125,
+        "y": 0.8152132034301758,
+        "z": 0.003982663154602051,
+        "w": 0.5790951251983643
+    },
+    "created": 1680845920272384,
+    "lastEditedBy": "{5a07d9c1-8ae3-4ff0-a21a-50487d495de9}",
+    "queryAACube": {
+        "x": -81.04476165771484,
+        "y": -2.9095141887664795,
+        "z": 3.8018879890441895,
+        "scale": 1.732050895690918
+    },
+    "grab": {
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "gravity": {
+        "x": 0,
+        "y": -3,
+        "z": 0
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "restitution": 0,
+    "friction": 0,
+    "script": "https://raw.githubusercontent.com/vircadia/vircadia-content/master/usefulUtilities/sit/sitClient.js",
+    "scriptTimestamp": 1680750542848,
+    "serverScripts": "https://raw.githubusercontent.com/vircadia/vircadia-content/master/usefulUtilities/sit/sitServer.js",
+    "shapeType": "simple-hull",
+    "modelURL": "C:\\Users\\fly80\\Desktop\\Model\\Office Chair.fbx",
+    "blendshapeCoefficients": "{\n}\n",
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{cfc9f462-9d50-4e79-926f-8275daf71646}",
+    "type": "Model",
+    "lastEdited": 1681475197216617,
+    "parentID": "{c36aecc7-402a-47e0-886d-7db5ea09578a}",
+    "name": "Office C (2)",
+    "userData": "{\"canClickOnModelToSit\":false}",
+    "position": {
+        "x": 1.7682102918624878,
+        "y": -0.3884906768798828,
+        "z": -1.232940673828125
+    },
+    "dimensions": {
+        "x": 1,
+        "y": 1.0000001192092896,
+        "z": 1
+    },
+    "rotation": {
+        "x": 0.0019989013671875,
+        "y": 0.7054398059844971,
+        "z": 0.004196286201477051,
+        "w": 0.7087053060531616
+    },
+    "created": 1680845920272384,
+    "lastEditedBy": "{5a07d9c1-8ae3-4ff0-a21a-50487d495de9}",
+    "queryAACube": {
+        "x": -81.3984603881836,
+        "y": -2.9032843112945557,
+        "z": 5.703216075897217,
+        "scale": 1.732050895690918
+    },
+    "grab": {
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "gravity": {
+        "x": 0,
+        "y": -3,
+        "z": 0
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "restitution": 0,
+    "friction": 0,
+    "script": "https://raw.githubusercontent.com/vircadia/vircadia-content/master/usefulUtilities/sit/sitClient.js",
+    "scriptTimestamp": 1680750542848,
+    "serverScripts": "https://raw.githubusercontent.com/vircadia/vircadia-content/master/usefulUtilities/sit/sitServer.js",
+    "shapeType": "simple-hull",
+    "modelURL": "C:\\Users\\fly80\\Desktop\\Model\\Office Chair.fbx",
+    "blendshapeCoefficients": "{\n}\n",
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{dab8a76c-f88a-4bd6-bdc2-9a07e19b1c16}",
+    "type": "Model",
+    "lastEdited": 1681475197214858,
+    "parentID": "{f9cb6985-cad3-4ce7-8de5-7be3cf92dba4}",
+    "name": "Siege2PG",
+    "userData": "{\"canClickOnModelToSit\":false}",
+    "position": {
+        "x": 0,
+        "y": 0.000028014183044433594,
+        "z": -0.9120965003967285
+    },
+    "dimensions": {
+        "x": 0.9123737215995789,
+        "y": 0.8487095832824707,
+        "z": 2.0146007537841797
+    },
+    "rotation": {
+        "x": -0.0000152587890625,
+        "y": -0.0000152587890625,
+        "z": -0.0000152587890625,
+        "w": 1
+    },
+    "registrationPoint": {
+        "x": 0.3499999940395355,
+        "y": 0.550000011920929,
+        "z": 0.2750000059604645
+    },
+    "created": 1680847128231936,
+    "lastEditedBy": "{5a07d9c1-8ae3-4ff0-a21a-50487d495de9}",
+    "queryAACube": {
+        "x": -80.05496978759766,
+        "y": -3.7360341548919678,
+        "z": 8.793046951293945,
+        "scale": 3.2881016731262207
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "script": "https://raw.githubusercontent.com/vircadia/vircadia-content/master/usefulUtilities/sit/sitClient.js",
+    "scriptTimestamp": 1680846749696,
+    "serverScripts": "https://raw.githubusercontent.com/vircadia/vircadia-content/master/usefulUtilities/sit/sitServer.js",
+    "shapeType": "simple-hull",
+    "modelURL": "C:\\Users\\fly80\\Desktop\\Model\\Siege2Place\\couch.fbx",
+    "blendshapeCoefficients": "{\n}\n",
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{0d643ccf-3845-46fe-989a-f8bcf122baf8}",
+    "type": "Model",
+    "lastEdited": 1681475197254653,
+    "parentID": "{0bb3f7bc-d930-40b0-a807-d9edc7ededf4}",
+    "name": "Siege2PG (2)",
+    "userData": "{\"canClickOnModelToSit\":false}",
+    "position": {
+        "x": 0.00000762939453125,
+        "y": 0.000027894973754882812,
+        "z": -0.9120961427688599
+    },
+    "dimensions": {
+        "x": 0.9123737215995789,
+        "y": 0.8487095832824707,
+        "z": 2.0146007537841797
+    },
+    "rotation": {
+        "x": -0.0000152587890625,
+        "y": -0.0000152587890625,
+        "z": -0.0000152587890625,
+        "w": 1
+    },
+    "registrationPoint": {
+        "x": 0.3499999940395355,
+        "y": 0.550000011920929,
+        "z": 0.2750000059604645
+    },
+    "created": 1680849275715584,
+    "lastEditedBy": "{5a07d9c1-8ae3-4ff0-a21a-50487d495de9}",
+    "queryAACube": {
+        "x": -80.01542663574219,
+        "y": -3.7359423637390137,
+        "z": 5.814903259277344,
+        "scale": 3.2881016731262207
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "script": "https://raw.githubusercontent.com/vircadia/vircadia-content/master/usefulUtilities/sit/sitClient.js",
+    "scriptTimestamp": 1680846749696,
+    "serverScripts": "https://raw.githubusercontent.com/vircadia/vircadia-content/master/usefulUtilities/sit/sitServer.js",
+    "shapeType": "simple-hull",
+    "modelURL": "C:\\Users\\fly80\\Desktop\\Model\\Siege2Place\\couch.fbx",
+    "blendshapeCoefficients": "{\n}\n",
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{96f90460-2fc1-4a8c-9f28-e075db48c09a}",
+    "type": "Model",
+    "lastEdited": 1681475197227956,
+    "parentID": "{5907ade3-3d2d-4dfb-a43b-0022f5ba980a}",
+    "name": "Office C (2)",
+    "userData": "{\"canClickOnModelToSit\":false}",
+    "position": {
+        "x": 3.022775888442993,
+        "y": -0.38878798484802246,
+        "z": -0.14063262939453125
+    },
+    "dimensions": {
+        "x": 1,
+        "y": 1.0000001192092896,
+        "z": 1
+    },
+    "rotation": {
+        "x": -0.004470884799957275,
+        "y": 0.0027618408203125,
+        "z": -0.0016021728515625,
+        "w": -1
+    },
+    "created": 1680841759522816,
+    "lastEditedBy": "{5a07d9c1-8ae3-4ff0-a21a-50487d495de9}",
+    "queryAACube": {
+        "x": -71.73993682861328,
+        "y": -2.8943748474121094,
+        "z": 14.619983673095703,
+        "scale": 1.732050895690918
+    },
+    "grab": {
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "gravity": {
+        "x": 0,
+        "y": -3,
+        "z": 0
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "restitution": 0,
+    "friction": 0,
+    "script": "https://raw.githubusercontent.com/vircadia/vircadia-content/master/usefulUtilities/sit/sitClient.js",
+    "scriptTimestamp": 1680750542848,
+    "serverScripts": "https://raw.githubusercontent.com/vircadia/vircadia-content/master/usefulUtilities/sit/sitServer.js",
+    "shapeType": "simple-hull",
+    "modelURL": "C:\\Users\\fly80\\Desktop\\Model\\Office Chair.fbx",
+    "blendshapeCoefficients": "{\n}\n",
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{3e216112-f05c-4806-b4ab-8afbc6528861}",
+    "type": "Shape",
+    "lastEdited": 1681475197248595,
+    "name": "Pillier (2)",
+    "position": {
+        "x": 2.3764572143554688,
+        "y": 2.4344706535339355,
+        "z": 3.138237237930298
+    },
+    "dimensions": {
+        "x": 0.6000000238418579,
+        "y": 4.513458251953125,
+        "z": 0.6000000238418579
+    },
+    "rotation": {
+        "x": -0.0000152587890625,
+        "y": -0.0000152587890625,
+        "z": -0.0000152587890625,
+        "w": 1
+    },
+    "created": 1680846054490112,
+    "lastEditedBy": "{5a07d9c1-8ae3-4ff0-a21a-50487d495de9}",
+    "queryAACube": {
+        "x": 0.08019351959228516,
+        "y": 0.13820695877075195,
+        "z": 0.8419735431671143,
+        "scale": 4.592527389526367
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "color": {
+        "red": 125,
+        "green": 144,
+        "blue": 150
+    },
+    "shape": "Cylinder",
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{38bf8b00-ef13-4bb8-b6ea-247de8c26471}",
+    "type": "Shape",
+    "lastEdited": 1681475197249146,
+    "name": "Pillier (3)",
+    "position": {
+        "x": 2.37615966796875,
+        "y": 2.4347727298736572,
+        "z": 13.03989028930664
+    },
+    "dimensions": {
+        "x": 0.6000000238418579,
+        "y": 4.513458251953125,
+        "z": 0.6000000238418579
+    },
+    "rotation": {
+        "x": -0.0000152587890625,
+        "y": -0.0000152587890625,
+        "z": -0.0000152587890625,
+        "w": 1
+    },
+    "created": 1680846054490112,
+    "lastEditedBy": "{5a07d9c1-8ae3-4ff0-a21a-50487d495de9}",
+    "queryAACube": {
+        "x": 0.0798959732055664,
+        "y": 0.13850903511047363,
+        "z": 10.743626594543457,
+        "scale": 4.592527389526367
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "color": {
+        "red": 125,
+        "green": 144,
+        "blue": 150
+    },
+    "shape": "Cylinder",
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{23f1be53-9263-41d0-a63f-35d6edc9fe74}",
+    "type": "Model",
+    "lastEdited": 1681475197251966,
+    "name": "Table Solo (2)",
+    "position": {
+        "x": 13.720451354980469,
+        "y": 1.1486735343933105,
+        "z": 8.55683708190918
+    },
+    "dimensions": {
+        "x": 1.2192704677581787,
+        "y": 1.1396154165267944,
+        "z": 1.1204605102539062
+    },
+    "rotation": {
+        "x": -0.0000152587890625,
+        "y": 0.0000152587890625,
+        "z": -0.0000152587890625,
+        "w": 1
+    },
+    "created": 1680875850825728,
+    "lastEditedBy": "{5a07d9c1-8ae3-4ff0-a21a-50487d495de9}",
+    "queryAACube": {
+        "x": 12.715367317199707,
+        "y": 0.14358949661254883,
+        "z": 7.551753044128418,
+        "scale": 2.0101680755615234
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "shapeType": "simple-hull",
+    "modelURL": "C:\\Users\\fly80\\Desktop\\Model\\Table\\Desk OBJ.obj",
+    "blendshapeCoefficients": "{\n}\n",
+    "useOriginalPivot": true,
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{4e758664-5638-4d9b-b87c-0ad8f85e420a}",
+    "type": "Shape",
+    "lastEdited": 1681475197242558,
+    "name": "Pillier (3)",
+    "position": {
+        "x": 13.118080139160156,
+        "y": 2.434277057647705,
+        "z": 7.537686347961426
+    },
+    "dimensions": {
+        "x": 0.6000000238418579,
+        "y": 4.513458251953125,
+        "z": 0.6000000238418579
+    },
+    "rotation": {
+        "x": -0.0000152587890625,
+        "y": -0.0000152587890625,
+        "z": -0.0000152587890625,
+        "w": 1
+    },
+    "created": 1680875448172544,
+    "lastEditedBy": "{5a07d9c1-8ae3-4ff0-a21a-50487d495de9}",
+    "queryAACube": {
+        "x": 10.821816444396973,
+        "y": 0.13801336288452148,
+        "z": 5.241422653198242,
+        "scale": 4.592527389526367
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "color": {
+        "red": 125,
+        "green": 144,
+        "blue": 150
+    },
+    "shape": "Cylinder",
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{47cc42a2-bf15-4063-bd0d-8c353e7373ad}",
+    "type": "Shape",
+    "lastEdited": 1681475197243668,
+    "name": "Pillier (4)",
+    "position": {
+        "x": 2.3759918212890625,
+        "y": 2.4349398612976074,
+        "z": 18.51850128173828
+    },
+    "dimensions": {
+        "x": 0.6000000238418579,
+        "y": 4.513458251953125,
+        "z": 0.6000000238418579
+    },
+    "rotation": {
+        "x": -0.0000152587890625,
+        "y": -0.0000152587890625,
+        "z": -0.0000152587890625,
+        "w": 1
+    },
+    "created": 1680876387696640,
+    "lastEditedBy": "{5a07d9c1-8ae3-4ff0-a21a-50487d495de9}",
+    "queryAACube": {
+        "x": 0.0797281265258789,
+        "y": 0.13867616653442383,
+        "z": 16.22223663330078,
+        "scale": 4.592527389526367
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "color": {
+        "red": 125,
+        "green": 144,
+        "blue": 150
+    },
+    "shape": "Cylinder",
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{aa7bbd8e-e509-44a3-80f8-40851647a659}",
+    "type": "Model",
+    "lastEdited": 1681475197225553,
+    "name": "Table Solo",
+    "position": {
+        "x": 13.720726013183594,
+        "y": 1.1489521265029907,
+        "z": 17.684032440185547
+    },
+    "dimensions": {
+        "x": 1.2192704677581787,
+        "y": 1.1396154165267944,
+        "z": 1.1204605102539062
+    },
+    "rotation": {
+        "x": -0.0000152587890625,
+        "y": 0.0000152587890625,
+        "z": -0.0000152587890625,
+        "w": 1
+    },
+    "created": 1680875448172544,
+    "lastEditedBy": "{5a07d9c1-8ae3-4ff0-a21a-50487d495de9}",
+    "queryAACube": {
+        "x": 12.715641975402832,
+        "y": 0.143868088722229,
+        "z": 16.67894744873047,
+        "scale": 2.0101680755615234
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "shapeType": "simple-hull",
+    "modelURL": "C:\\Users\\fly80\\Desktop\\Model\\Table\\Desk OBJ.obj",
+    "blendshapeCoefficients": "{\n}\n",
+    "useOriginalPivot": true,
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{52c7746b-7ff6-4fa5-a2ca-256c8379e3e8}",
+    "type": "Shape",
+    "lastEdited": 1681475197240524,
+    "name": "Pillier (2)",
+    "position": {
+        "x": 13.174400329589844,
+        "y": 2.4346675872802734,
+        "z": 20.38982391357422
+    },
+    "dimensions": {
+        "x": 0.6000000238418579,
+        "y": 4.513458251953125,
+        "z": 0.6000000238418579
+    },
+    "rotation": {
+        "x": -0.0000152587890625,
+        "y": -0.0000152587890625,
+        "z": -0.0000152587890625,
+        "w": 1
+    },
+    "created": 1680846188707840,
+    "lastEditedBy": "{5a07d9c1-8ae3-4ff0-a21a-50487d495de9}",
+    "queryAACube": {
+        "x": 10.87813663482666,
+        "y": 0.13840389251708984,
+        "z": 18.09355926513672,
+        "scale": 4.592527389526367
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "color": {
+        "red": 125,
+        "green": 144,
+        "blue": 150
+    },
+    "shape": "Cylinder",
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{eb3aebd0-386d-4971-ba5e-8ceb54286bc0}",
+    "type": "Model",
+    "lastEdited": 1681475197212866,
+    "name": "Siege (3)",
+    "userData": "{\"canClickOnModelToSit\":false}",
+    "position": {
+        "x": 2.2601394653320312,
+        "y": 0.6657242774963379,
+        "z": 2.1905770301818848
+    },
+    "dimensions": {
+        "x": 0.8806483149528503,
+        "y": 0.8292167782783508,
+        "z": 0.7081170082092285
+    },
+    "rotation": {
+        "x": -0.0000762939453125,
+        "y": -0.7083390951156616,
+        "z": -0.0000152587890625,
+        "w": 0.7058975696563721
+    },
+    "registrationPoint": {
+        "x": 0.5,
+        "y": 0.550000011920929,
+        "z": 0.699999988079071
+    },
+    "created": 1680849812586496,
+    "lastEditedBy": "{5a07d9c1-8ae3-4ff0-a21a-50487d495de9}",
+    "queryAACube": {
+        "x": 1.4554128646850586,
+        "y": -0.13900238275527954,
+        "z": 1.385850429534912,
+        "scale": 1.6094533205032349
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "script": "https://raw.githubusercontent.com/vircadia/vircadia-content/master/usefulUtilities/sit/sitClient.js",
+    "scriptTimestamp": 1680848453632,
+    "serverScripts": "https://raw.githubusercontent.com/vircadia/vircadia-content/master/usefulUtilities/sit/sitServer.js",
+    "shapeType": "simple-hull",
+    "modelURL": "C:\\Users\\fly80\\Desktop\\Model\\lil ofa\\uploads_files_3908325_Litttle+Sofa+FBX.fbx",
+    "blendshapeCoefficients": "{\n}\n",
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{c769dfbb-9c23-40d0-b115-a1389aa14345}",
+    "type": "Model",
+    "lastEdited": 1681475197218406,
+    "parentID": "{1b9a4e03-cf80-48bf-92ed-e3f481a839dd}",
+    "name": "Biblio (2)",
+    "position": {
+        "x": -2.343109130859375,
+        "y": -9.5367431640625e-7,
+        "z": -0.004772557411342859
+    },
+    "dimensions": {
+        "x": 2.3385400772094727,
+        "y": 2.2748212814331055,
+        "z": 0.4471819996833801
+    },
+    "rotation": {
+        "x": -0.0000152587890625,
+        "y": -0.0000152587890625,
+        "z": -0.0000152587890625,
+        "w": 1
+    },
+    "created": 1680845786054656,
+    "lastEditedBy": "{5a07d9c1-8ae3-4ff0-a21a-50487d495de9}",
+    "queryAACube": {
+        "x": -77.85844421386719,
+        "y": -3.08221435546875,
+        "z": 16.376102447509766,
+        "scale": 3.292955160140991
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "shapeType": "box",
+    "modelURL": "C:\\Users\\fly80\\Desktop\\Model\\Bibliothèque\\Bookcase.FBX",
+    "blendshapeCoefficients": "{\n}\n",
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{58c7cb83-b488-4c09-a319-65856de9e20d}",
+    "type": "Model",
+    "lastEdited": 1681475197239994,
+    "name": "RoundTable (2)",
+    "position": {
+        "x": 0.7018661499023438,
+        "y": 0.34250378608703613,
+        "z": 15.551462173461914
+    },
+    "dimensions": {
+        "x": 1.2929760217666626,
+        "y": 0.276450514793396,
+        "z": 1.2929760217666626
+    },
+    "rotation": {
+        "x": -0.0000152587890625,
+        "y": -0.0000152587890625,
+        "z": -0.0000152587890625,
+        "w": 1
+    },
+    "created": 1680850483675136,
+    "lastEditedBy": "{5a07d9c1-8ae3-4ff0-a21a-50487d495de9}",
+    "queryAACube": {
+        "x": -0.2227957844734192,
+        "y": -0.5821581482887268,
+        "z": 14.626800537109375,
+        "scale": 1.8493238687515259
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "shapeType": "simple-hull",
+    "modelURL": "C:\\Users\\fly80\\Desktop\\Model\\Round table\\round table Ultimate(free Final).obj",
+    "blendshapeCoefficients": "{\n}\n",
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{2a2ccb85-1497-4e03-9cb9-ae61022ee2cc}",
+    "type": "Model",
+    "lastEdited": 1681475197250934,
+    "parentID": "{45a1329c-6092-4342-a212-b6689b88ddad}",
+    "name": "Biblio (3)",
+    "position": {
+        "x": 2.3275299072265625,
+        "y": 3.5762786865234375e-7,
+        "z": 8.866190910339355e-7
+    },
+    "dimensions": {
+        "x": 2.3385400772094727,
+        "y": 2.2748212814331055,
+        "z": 0.4471819996833801
+    },
+    "rotation": {
+        "x": -0.0000152587890625,
+        "y": -0.0000152587890625,
+        "z": -0.0000152587890625,
+        "w": 1
+    },
+    "created": 1680849812586496,
+    "lastEditedBy": "{5a07d9c1-8ae3-4ff0-a21a-50487d495de9}",
+    "queryAACube": {
+        "x": -77.71385192871094,
+        "y": -3.082615375518799,
+        "z": 1.0056051015853882,
+        "scale": 3.292955160140991
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "shapeType": "box",
+    "modelURL": "C:\\Users\\fly80\\Desktop\\Model\\Bibliothèque\\Bookcase.FBX",
+    "blendshapeCoefficients": "{\n}\n",
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{09a96d70-1b86-4d3d-8c86-2ac6a79e62aa}",
+    "type": "Model",
+    "lastEdited": 1681475197260283,
+    "parentID": "{bfc82aab-cf89-4008-98d1-9c130235bb21}",
+    "name": "Biblio (2)",
+    "position": {
+        "x": -2.3431243896484375,
+        "y": -8.344650268554688e-7,
+        "z": -0.004772156476974487
+    },
+    "dimensions": {
+        "x": 2.3385400772094727,
+        "y": 2.2748212814331055,
+        "z": 0.4471819996833801
+    },
+    "rotation": {
+        "x": -0.0000152587890625,
+        "y": -0.0000152587890625,
+        "z": -0.0000152587890625,
+        "w": 1
+    },
+    "created": 1680845786054656,
+    "lastEditedBy": "{5a07d9c1-8ae3-4ff0-a21a-50487d495de9}",
+    "queryAACube": {
+        "x": -82.544677734375,
+        "y": -3.0821292400360107,
+        "z": 16.818077087402344,
+        "scale": 3.292955160140991
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "shapeType": "box",
+    "modelURL": "C:\\Users\\fly80\\Desktop\\Model\\Bibliothèque\\Bookcase.FBX",
+    "blendshapeCoefficients": "{\n}\n",
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{8a61d991-da8e-44a2-a5d0-eeae052a4ccf}",
+    "type": "Model",
+    "lastEdited": 1681475197230554,
+    "name": "High Chair (2)",
+    "userData": "{\"canClickOnModelToSit\":false}",
+    "position": {
+        "x": 0.8540420532226562,
+        "y": 1.0456292629241943,
+        "z": 20.401166915893555
+    },
+    "dimensions": {
+        "x": 0.4423406720161438,
+        "y": 1.1344573497772217,
+        "z": 0.4890615940093994
+    },
+    "rotation": {
+        "x": -0.0001068115234375,
+        "y": 0.7089799642562866,
+        "z": 0.0000762939453125,
+        "w": -0.7052567005157471
+    },
+    "registrationPoint": {
+        "x": 0.5,
+        "y": 0.7250000238418579,
+        "z": 0.5
+    },
+    "created": 1680878266744832,
+    "lastEditedBy": "{5a07d9c1-8ae3-4ff0-a21a-50487d495de9}",
+    "queryAACube": {
+        "x": -0.03206610679626465,
+        "y": 0.15952110290527344,
+        "z": 19.515058517456055,
+        "scale": 1.7722163200378418
+    },
+    "grab": {
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "script": "https://raw.githubusercontent.com/vircadia/vircadia-content/master/usefulUtilities/sit/sitClient.js",
+    "scriptTimestamp": 1680878206976,
+    "serverScripts": "https://raw.githubusercontent.com/vircadia/vircadia-content/master/usefulUtilities/sit/sitServer.js",
+    "shapeType": "simple-hull",
+    "modelURL": "C:\\Users\\fly80\\Desktop\\Model\\Chaise Haute\\uploads_files_2030789_Barstool.fbx",
+    "blendshapeCoefficients": "{\n}\n",
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{1884fb1a-eec7-4ff3-898a-7170d9c7bdd4}",
+    "type": "Model",
+    "lastEdited": 1681475197254180,
+    "parentID": "{47a166cd-7856-4313-a426-8d3791ec6c9c}",
+    "name": "Biblio",
+    "position": {
+        "x": -2.3431015014648438,
+        "y": -9.5367431640625e-7,
+        "z": -0.004772557877004147
+    },
+    "dimensions": {
+        "x": 2.3385400772094727,
+        "y": 2.2748212814331055,
+        "z": 0.4471819996833801
+    },
+    "rotation": {
+        "x": -0.0000152587890625,
+        "y": -0.0000152587890625,
+        "z": -0.0000152587890625,
+        "w": 1
+    },
+    "created": 1680845517619200,
+    "lastEditedBy": "{5a07d9c1-8ae3-4ff0-a21a-50487d495de9}",
+    "queryAACube": {
+        "x": -77.86324310302734,
+        "y": -3.0823121070861816,
+        "z": 13.158803939819336,
+        "scale": 3.292955160140991
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "shapeType": "box",
+    "modelURL": "C:\\Users\\fly80\\Desktop\\Model\\Bibliothèque\\Bookcase.FBX",
+    "blendshapeCoefficients": "{\n}\n",
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{325e87fd-9317-465d-8600-91842f33d830}",
+    "type": "Model",
+    "lastEdited": 1681475197249952,
+    "name": "Siege (2)",
+    "userData": "{\"canClickOnModelToSit\":false}",
+    "position": {
+        "x": 7.724212646484375,
+        "y": 0.666038990020752,
+        "z": 11.369760513305664
+    },
+    "dimensions": {
+        "x": 0.8806483149528503,
+        "y": 0.8292167782783508,
+        "z": 0.7081170082092285
+    },
+    "rotation": {
+        "x": -0.0000457763671875,
+        "y": -1,
+        "z": 0.0000457763671875,
+        "w": -0.0000457763671875
+    },
+    "registrationPoint": {
+        "x": 0.5,
+        "y": 0.550000011920929,
+        "z": 0.699999988079071
+    },
+    "created": 1680849678368768,
+    "lastEditedBy": "{5a07d9c1-8ae3-4ff0-a21a-50487d495de9}",
+    "queryAACube": {
+        "x": 6.919486045837402,
+        "y": -0.13868767023086548,
+        "z": 10.565033912658691,
+        "scale": 1.6094533205032349
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "script": "https://raw.githubusercontent.com/vircadia/vircadia-content/master/usefulUtilities/sit/sitClient.js",
+    "scriptTimestamp": 1680848453632,
+    "serverScripts": "https://raw.githubusercontent.com/vircadia/vircadia-content/master/usefulUtilities/sit/sitServer.js",
+    "shapeType": "simple-hull",
+    "modelURL": "C:\\Users\\fly80\\Desktop\\Model\\lil ofa\\uploads_files_3908325_Litttle+Sofa+FBX.fbx",
+    "blendshapeCoefficients": "{\n}\n",
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{76324de5-2ef2-413b-b24e-d834e7de8341}",
+    "type": "Model",
+    "lastEdited": 1681475197233955,
+    "name": "RoundTable",
+    "position": {
+        "x": 7.606376647949219,
+        "y": 0.34203147888183594,
+        "z": 6.985870361328125
+    },
+    "dimensions": {
+        "x": 1.2929760217666626,
+        "y": 0.276450514793396,
+        "z": 1.2929760217666626
+    },
+    "rotation": {
+        "x": -0.0000152587890625,
+        "y": -0.0000152587890625,
+        "z": -0.0000152587890625,
+        "w": 1
+    },
+    "created": 1680850483675136,
+    "lastEditedBy": "{5a07d9c1-8ae3-4ff0-a21a-50487d495de9}",
+    "queryAACube": {
+        "x": 6.6817145347595215,
+        "y": -0.582630455493927,
+        "z": 6.061208248138428,
+        "scale": 1.8493238687515259
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "shapeType": "simple-hull",
+    "modelURL": "C:\\Users\\fly80\\Desktop\\Model\\Round table\\round table Ultimate(free Final).obj",
+    "blendshapeCoefficients": "{\n}\n",
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{771ce6dd-4c7f-49c8-9b7b-7d7e77d459c0}",
+    "type": "Model",
+    "lastEdited": 1681475197233525,
+    "parentID": "{4171f372-a70e-4db9-a3fa-209f11a4672e}",
+    "name": "Biblio (3)",
+    "position": {
+        "x": 2.3275375366210938,
+        "y": 4.76837158203125e-7,
+        "z": -5.462206900119781e-7
+    },
+    "dimensions": {
+        "x": 2.3385400772094727,
+        "y": 2.2748212814331055,
+        "z": 0.4471819996833801
+    },
+    "rotation": {
+        "x": -0.0000152587890625,
+        "y": -0.0000152587890625,
+        "z": -0.0000152587890625,
+        "w": 1
+    },
+    "created": 1680849812586496,
+    "lastEditedBy": "{5a07d9c1-8ae3-4ff0-a21a-50487d495de9}",
+    "queryAACube": {
+        "x": -82.36892700195312,
+        "y": -3.0825581550598145,
+        "z": 0.5530880689620972,
+        "scale": 3.292955160140991
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "shapeType": "box",
+    "modelURL": "C:\\Users\\fly80\\Desktop\\Model\\Bibliothèque\\Bookcase.FBX",
+    "blendshapeCoefficients": "{\n}\n",
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{d0c5b8b3-80e4-4df7-9328-62bdac462d41}",
+    "type": "Model",
+    "lastEdited": 1681475197215894,
+    "parentID": "{45a1329c-6092-4342-a212-b6689b88ddad}",
+    "name": "Biblio (3)",
+    "position": {
+        "x": -2.3431396484375,
+        "y": -7.152557373046875e-7,
+        "z": -0.004771452397108078
+    },
+    "dimensions": {
+        "x": 2.3385400772094727,
+        "y": 2.2748212814331055,
+        "z": 0.4471819996833801
+    },
+    "rotation": {
+        "x": -0.0000152587890625,
+        "y": -0.0000152587890625,
+        "z": -0.0000152587890625,
+        "w": 1
+    },
+    "created": 1680849812586496,
+    "lastEditedBy": "{5a07d9c1-8ae3-4ff0-a21a-50487d495de9}",
+    "queryAACube": {
+        "x": -82.384521484375,
+        "y": -3.0826168060302734,
+        "z": 1.0002626180648804,
+        "scale": 3.292955160140991
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "shapeType": "box",
+    "modelURL": "C:\\Users\\fly80\\Desktop\\Model\\Bibliothèque\\Bookcase.FBX",
+    "blendshapeCoefficients": "{\n}\n",
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{31b3ce2f-b1d5-4a6e-ba33-4164589e9cba}",
+    "type": "Model",
+    "lastEdited": 1681475197250466,
+    "parentID": "{98219eec-1446-46aa-9981-00c9effac54b}",
+    "name": "Biblio (4)",
+    "position": {
+        "x": -2.343109130859375,
+        "y": -0.0000010728836059570312,
+        "z": -0.0047724004834890366
+    },
+    "dimensions": {
+        "x": 2.3385400772094727,
+        "y": 2.2748212814331055,
+        "z": 0.4471819996833801
+    },
+    "rotation": {
+        "x": -0.0000152587890625,
+        "y": -0.0000152587890625,
+        "z": -0.0000152587890625,
+        "w": 1
+    },
+    "created": 1680876119261184,
+    "lastEditedBy": "{5a07d9c1-8ae3-4ff0-a21a-50487d495de9}",
+    "queryAACube": {
+        "x": -82.38431549072266,
+        "y": -3.0826196670532227,
+        "z": -1.435941219329834,
+        "scale": 3.292955160140991
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "shapeType": "box",
+    "modelURL": "C:\\Users\\fly80\\Desktop\\Model\\Bibliothèque\\Bookcase.FBX",
+    "blendshapeCoefficients": "{\n}\n",
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{4f2a133d-aa62-4baf-9b14-9eebb72196c4}",
+    "type": "Model",
+    "lastEdited": 1681475197242144,
+    "parentID": "{47a166cd-7856-4313-a426-8d3791ec6c9c}",
+    "name": "Biblio",
+    "position": {
+        "x": 2.327545166015625,
+        "y": 3.5762786865234375e-7,
+        "z": -7.371418178081512e-7
+    },
+    "dimensions": {
+        "x": 2.3385400772094727,
+        "y": 2.2748212814331055,
+        "z": 0.4471819996833801
+    },
+    "rotation": {
+        "x": -0.0000152587890625,
+        "y": -0.0000152587890625,
+        "z": -0.0000152587890625,
+        "w": 1
+    },
+    "created": 1680845517619200,
+    "lastEditedBy": "{5a07d9c1-8ae3-4ff0-a21a-50487d495de9}",
+    "queryAACube": {
+        "x": -82.53388977050781,
+        "y": -3.0821683406829834,
+        "z": 13.153604507446289,
+        "scale": 3.292955160140991
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "shapeType": "box",
+    "modelURL": "C:\\Users\\fly80\\Desktop\\Model\\Bibliothèque\\Bookcase.FBX",
+    "blendshapeCoefficients": "{\n}\n",
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{45a1329c-6092-4342-a212-b6689b88ddad}",
+    "type": "Model",
+    "lastEdited": 1681475197246499,
+    "parentID": "{4171f372-a70e-4db9-a3fa-209f11a4672e}",
+    "name": "Biblio Sec (3)",
+    "position": {
+        "x": -0.0000457763671875,
+        "y": 0,
+        "z": -0.4520198106765747
+    },
+    "dimensions": {
+        "x": 2.3385400772094727,
+        "y": 2.2748212814331055,
+        "z": 0.4471819996833801
+    },
+    "rotation": {
+        "x": -0.0000152587890625,
+        "y": -1,
+        "z": -0.0000152587890625,
+        "w": -0.0000152587890625
+    },
+    "created": 1680849812586496,
+    "lastEditedBy": "{5a07d9c1-8ae3-4ff0-a21a-50487d495de9}",
+    "queryAACube": {
+        "x": -82.384521484375,
+        "y": -3.0826168060302734,
+        "z": 1.0002626180648804,
+        "scale": 7.963623046875
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "shapeType": "box",
+    "modelURL": "C:\\Users\\fly80\\Desktop\\Model\\Bibliothèque\\Bookcase.FBX",
+    "blendshapeCoefficients": "{\n}\n",
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{882a6731-d301-4a50-a3c8-14b179f90b3b}",
+    "type": "Model",
+    "lastEdited": 1681475197231861,
+    "parentID": "{47a166cd-7856-4313-a426-8d3791ec6c9c}",
+    "name": "Biblio Sec",
+    "position": {
+        "x": -0.000030517578125,
+        "y": 0,
+        "z": -0.4520200192928314
+    },
+    "dimensions": {
+        "x": 2.3385400772094727,
+        "y": 2.2748212814331055,
+        "z": 0.4471819996833801
+    },
+    "rotation": {
+        "x": -0.0000152587890625,
+        "y": -1,
+        "z": -0.0000152587890625,
+        "w": -0.0000152587890625
+    },
+    "created": 1680845651836928,
+    "lastEditedBy": "{5a07d9c1-8ae3-4ff0-a21a-50487d495de9}",
+    "queryAACube": {
+        "x": -82.5494613647461,
+        "y": -3.0822272300720215,
+        "z": 13.600778579711914,
+        "scale": 7.9636077880859375
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "shapeType": "box",
+    "modelURL": "C:\\Users\\fly80\\Desktop\\Model\\Bibliothèque\\Bookcase.FBX",
+    "blendshapeCoefficients": "{\n}\n",
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{6772f7c8-88ac-4b42-a0c5-c87b2a201c20}",
+    "type": "Model",
+    "lastEdited": 1681475197235450,
+    "name": "Print",
+    "position": {
+        "x": 13.6217041015625,
+        "y": 0.7776634693145752,
+        "z": 19.257511138916016
+    },
+    "dimensions": {
+        "x": 1.3432708978652954,
+        "y": 1.1356282234191895,
+        "z": 1.4967381954193115
+    },
+    "rotation": {
+        "x": -0.0000457763671875,
+        "y": -0.7087358236312866,
+        "z": -0.0000152587890625,
+        "w": 0.7055008411407471
+    },
+    "created": 1680877461438464,
+    "lastEditedBy": "{5a07d9c1-8ae3-4ff0-a21a-50487d495de9}",
+    "queryAACube": {
+        "x": 12.466903686523438,
+        "y": -0.3771367073059082,
+        "z": 18.102710723876953,
+        "scale": 2.309600353240967
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "shapeType": "simple-hull",
+    "modelURL": "C:\\Users\\fly80\\Desktop\\Model\\Printer\\uploads_files_260604_Laser+Flash.fbx",
+    "blendshapeCoefficients": "{\n}\n",
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{3f31dde7-9219-4c86-865d-28dd90369a1c}",
+    "type": "Model",
+    "lastEdited": 1681475197248110,
+    "name": "Siege (2)",
+    "userData": "{\"canClickOnModelToSit\":false}",
+    "position": {
+        "x": 0.7643356323242188,
+        "y": 0.6318826675415039,
+        "z": 16.820919036865234
+    },
+    "dimensions": {
+        "x": 0.8806483149528503,
+        "y": 0.8292167782783508,
+        "z": 0.7081170082092285
+    },
+    "rotation": {
+        "x": -0.0000457763671875,
+        "y": -1,
+        "z": 0.0000457763671875,
+        "w": -0.0000457763671875
+    },
+    "registrationPoint": {
+        "x": 0.5,
+        "y": 0.550000011920929,
+        "z": 0.699999988079071
+    },
+    "created": 1680848604626944,
+    "lastEditedBy": "{5a07d9c1-8ae3-4ff0-a21a-50487d495de9}",
+    "queryAACube": {
+        "x": -0.04039102792739868,
+        "y": -0.17284399271011353,
+        "z": 16.016191482543945,
+        "scale": 1.6094533205032349
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "script": "https://raw.githubusercontent.com/vircadia/vircadia-content/master/usefulUtilities/sit/sitClient.js",
+    "scriptTimestamp": 1680848453632,
+    "serverScripts": "https://raw.githubusercontent.com/vircadia/vircadia-content/master/usefulUtilities/sit/sitServer.js",
+    "shapeType": "simple-hull",
+    "modelURL": "C:\\Users\\fly80\\Desktop\\Model\\lil ofa\\uploads_files_3908325_Litttle+Sofa+FBX.fbx",
+    "blendshapeCoefficients": "{\n}\n",
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{6bba88a6-224b-45c6-8164-3e7f8cf01345}",
+    "type": "Box",
+    "lastEdited": 1681475197234982,
+    "parentID": "{1dd4afa5-3722-4b0e-8705-8f260d3181dd}",
+    "name": "Wall (2)",
+    "position": {
+        "x": -0.03987884521484375,
+        "y": 2.044511318206787,
+        "z": -8.961355209350586
+    },
+    "dimensions": {
+        "x": 26.992971420288086,
+        "y": 3.679419755935669,
+        "z": 1
+    },
+    "rotation": {
+        "x": -0.0000152587890625,
+        "y": -0.0000152587890625,
+        "z": -0.0000152587890625,
+        "w": 1
+    },
+    "created": 1680835182854144,
+    "lastEditedBy": "{5a07d9c1-8ae3-4ff0-a21a-50487d495de9}",
+    "queryAACube": {
+        "x": -87.37716674804688,
+        "y": -14.364154815673828,
+        "z": -14.182832717895508,
+        "scale": 27.260936737060547
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "color": {
+        "red": 240,
+        "green": 0,
+        "blue": 0
+    },
+    "shape": "Cube",
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{bfc82aab-cf89-4008-98d1-9c130235bb21}",
+    "type": "Model",
+    "lastEdited": 1681475197222275,
+    "parentID": "{1b9a4e03-cf80-48bf-92ed-e3f481a839dd}",
+    "name": "Biblio Sec (2)",
+    "position": {
+        "x": -0.00003814697265625,
+        "y": 0,
+        "z": -0.4520200192928314
+    },
+    "dimensions": {
+        "x": 2.3385400772094727,
+        "y": 2.2748212814331055,
+        "z": 0.4471819996833801
+    },
+    "rotation": {
+        "x": -0.0000152587890625,
+        "y": -1,
+        "z": -0.0000152587890625,
+        "w": -0.0000152587890625
+    },
+    "created": 1680845786054656,
+    "lastEditedBy": "{5a07d9c1-8ae3-4ff0-a21a-50487d495de9}",
+    "queryAACube": {
+        "x": -82.544677734375,
+        "y": -3.0821292400360107,
+        "z": 16.818077087402344,
+        "scale": 7.963615417480469
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "shapeType": "box",
+    "modelURL": "C:\\Users\\fly80\\Desktop\\Model\\Bibliothèque\\Bookcase.FBX",
+    "blendshapeCoefficients": "{\n}\n",
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{33a29655-4f53-44e3-aa66-9b2061981e66}",
+    "type": "Model",
+    "lastEdited": 1681475197249501,
+    "parentID": "{98219eec-1446-46aa-9981-00c9effac54b}",
+    "name": "Biblio (4)",
+    "position": {
+        "x": -4.686317443847656,
+        "y": 0.0000705718994140625,
+        "z": -0.00484381103888154
+    },
+    "dimensions": {
+        "x": 2.3385400772094727,
+        "y": 2.2748212814331055,
+        "z": 0.4471819996833801
+    },
+    "rotation": {
+        "x": -0.0000152587890625,
+        "y": -0.0000152587890625,
+        "z": -0.0000152587890625,
+        "w": 1
+    },
+    "created": 1680876253478912,
+    "lastEditedBy": "{5a07d9c1-8ae3-4ff0-a21a-50487d495de9}",
+    "queryAACube": {
+        "x": -84.72752380371094,
+        "y": -3.0824766159057617,
+        "z": -1.4362272024154663,
+        "scale": 3.292955160140991
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "shapeType": "box",
+    "modelURL": "C:\\Users\\fly80\\Desktop\\Model\\Bibliothèque\\Bookcase.FBX",
+    "blendshapeCoefficients": "{\n}\n",
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{1b9a4e03-cf80-48bf-92ed-e3f481a839dd}",
+    "type": "Model",
+    "lastEdited": 1681475197253488,
+    "name": "Biblio Main (2)",
+    "position": {
+        "x": 6.168113708496094,
+        "y": 1.342261552810669,
+        "z": 17.80206871032715
+    },
+    "dimensions": {
+        "x": 2.3385400772094727,
+        "y": 2.2748212814331055,
+        "z": 0.4471819996833801
+    },
+    "rotation": {
+        "x": -0.0000152587890625,
+        "y": -1,
+        "z": 0.0000152587890625,
+        "w": -0.0000457763671875
+    },
+    "created": 1680845786054656,
+    "lastEditedBy": "{5a07d9c1-8ae3-4ff0-a21a-50487d495de9}",
+    "queryAACube": {
+        "x": 4.521636009216309,
+        "y": -0.30421602725982666,
+        "z": 16.15559196472168,
+        "scale": 3.292955160140991
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "shapeType": "box",
+    "modelURL": "C:\\Users\\fly80\\Desktop\\Model\\Bibliothèque\\Bookcase.FBX",
+    "blendshapeCoefficients": "{\n}\n",
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{b29a6bb5-0020-47b6-96ba-652e17dd218c}",
+    "type": "Model",
+    "lastEdited": 1681475197222803,
+    "name": "Main Table",
+    "position": {
+        "x": 2.9128570556640625,
+        "y": 1.1292120218276978,
+        "z": 9.447406768798828
+    },
+    "dimensions": {
+        "x": 1.8633999824523926,
+        "y": 1.1396000385284424,
+        "z": 1.1204999685287476
+    },
+    "rotation": {
+        "x": -0.0000152587890625,
+        "y": -0.7122758626937866,
+        "z": -0.0000152587890625,
+        "w": 0.7018997669219971
+    },
+    "created": 1680840148910080,
+    "lastEditedBy": "{5a07d9c1-8ae3-4ff0-a21a-50487d495de9}",
+    "queryAACube": {
+        "x": 1.6854137182235718,
+        "y": -0.09823131561279297,
+        "z": 8.219963073730469,
+        "scale": 2.4548866748809814
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "gravity": {
+        "x": 0,
+        "y": -1,
+        "z": 0
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "restitution": 0,
+    "friction": 0,
+    "shapeType": "simple-hull",
+    "modelURL": "C:\\Users\\fly80\\Desktop\\Model\\Table\\Desk OBJ.obj",
+    "blendshapeCoefficients": "{\n}\n",
+    "useOriginalPivot": true,
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{c1724aeb-a542-4930-abd2-371229f50575}",
+    "type": "Model",
+    "lastEdited": 1681475197221667,
+    "name": "Table",
+    "position": {
+        "x": 0,
+        "y": 1.212470293045044,
+        "z": 19.988887786865234
+    },
+    "dimensions": {
+        "x": 1.8634371757507324,
+        "y": 1.7368247509002686,
+        "z": 1.1204605102539062
+    },
+    "rotation": {
+        "x": -0.0000457763671875,
+        "y": -0.7095292806625366,
+        "z": -0.0000152587890625,
+        "w": 0.7046463489532471
+    },
+    "created": 1680876387696640,
+    "lastEditedBy": "{5a07d9c1-8ae3-4ff0-a21a-50487d495de9}",
+    "queryAACube": {
+        "x": -1.3914371728897095,
+        "y": -0.17896687984466553,
+        "z": 18.597450256347656,
+        "scale": 2.782874345779419
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "shapeType": "simple-hull",
+    "modelURL": "C:\\Users\\fly80\\Desktop\\Model\\Table\\Desk OBJ.obj",
+    "blendshapeCoefficients": "{\n}\n",
+    "useOriginalPivot": true,
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{7c583ba4-e165-48b4-81b2-d310cc96d235}",
+    "type": "Box",
+    "lastEdited": 1681475197232178,
+    "parentID": "{1dd4afa5-3722-4b0e-8705-8f260d3181dd}",
+    "name": "Wall (2)",
+    "position": {
+        "x": -12.057853698730469,
+        "y": 2.043252944946289,
+        "z": 0.06593602895736694
+    },
+    "dimensions": {
+        "x": 36.099517822265625,
+        "y": 3.679419755935669,
+        "z": 1
+    },
+    "rotation": {
+        "x": -0.0000152587890625,
+        "y": 0.7070878744125366,
+        "z": -0.0000457763671875,
+        "w": 0.7070878744125366
+    },
+    "created": 1680835182854144,
+    "lastEditedBy": "{5a07d9c1-8ae3-4ff0-a21a-50487d495de9}",
+    "queryAACube": {
+        "x": -103.91510772705078,
+        "y": -18.884462356567383,
+        "z": -9.675599098205566,
+        "scale": 36.30031967163086
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "color": {
+        "red": 240,
+        "green": 0,
+        "blue": 0
+    },
+    "shape": "Cube",
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{0bbabceb-69fe-4653-9dd0-b82a62702221}",
+    "type": "Model",
+    "lastEdited": 1681475197255139,
+    "parentID": "{1b9a4e03-cf80-48bf-92ed-e3f481a839dd}",
+    "name": "Biblio (2)",
+    "position": {
+        "x": 2.3275375366210938,
+        "y": 3.5762786865234375e-7,
+        "z": -7.371418178081512e-7
+    },
+    "dimensions": {
+        "x": 2.3385400772094727,
+        "y": 2.2748212814331055,
+        "z": 0.4471819996833801
+    },
+    "rotation": {
+        "x": -0.0000152587890625,
+        "y": -0.0000152587890625,
+        "z": -0.0000152587890625,
+        "w": 1
+    },
+    "created": 1680845786054656,
+    "lastEditedBy": "{5a07d9c1-8ae3-4ff0-a21a-50487d495de9}",
+    "queryAACube": {
+        "x": -82.52909088134766,
+        "y": -3.0820705890655518,
+        "z": 16.37090301513672,
+        "scale": 3.292955160140991
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "shapeType": "box",
+    "modelURL": "C:\\Users\\fly80\\Desktop\\Model\\Bibliothèque\\Bookcase.FBX",
+    "blendshapeCoefficients": "{\n}\n",
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{919c6013-62ca-4f22-8570-a31c7e8c6c3e}",
+    "type": "Model",
+    "lastEdited": 1681475197228952,
+    "parentID": "{882a6731-d301-4a50-a3c8-14b179f90b3b}",
+    "name": "Biblio",
+    "position": {
+        "x": 2.327545166015625,
+        "y": 3.5762786865234375e-7,
+        "z": -7.371418178081512e-7
+    },
+    "dimensions": {
+        "x": 2.3385400772094727,
+        "y": 2.2748212814331055,
+        "z": 0.4471819996833801
+    },
+    "rotation": {
+        "x": -0.0000152587890625,
+        "y": -0.0000152587890625,
+        "z": -0.0000152587890625,
+        "w": 1
+    },
+    "created": 1680845651836928,
+    "lastEditedBy": "{5a07d9c1-8ae3-4ff0-a21a-50487d495de9}",
+    "queryAACube": {
+        "x": -77.8788070678711,
+        "y": -3.0822255611419678,
+        "z": 13.606120109558105,
+        "scale": 3.292955160140991
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "shapeType": "box",
+    "modelURL": "C:\\Users\\fly80\\Desktop\\Model\\Bibliothèque\\Bookcase.FBX",
+    "blendshapeCoefficients": "{\n}\n",
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{8f659345-3cd4-4ed0-a1a7-316c69586f9c}",
+    "type": "Model",
+    "lastEdited": 1681475197230084,
+    "name": "Siege (4)",
+    "userData": "{\"canClickOnModelToSit\":false}",
+    "position": {
+        "x": 7.724403381347656,
+        "y": 0.6654629707336426,
+        "z": 5.078266620635986
+    },
+    "dimensions": {
+        "x": 0.8806483149528503,
+        "y": 0.8292167782783508,
+        "z": 0.7081170082092285
+    },
+    "rotation": {
+        "x": -0.0000457763671875,
+        "y": -0.0000152587890625,
+        "z": -0.0000457763671875,
+        "w": 1
+    },
+    "registrationPoint": {
+        "x": 0.5,
+        "y": 0.550000011920929,
+        "z": 0.699999988079071
+    },
+    "created": 1680874374430720,
+    "lastEditedBy": "{5a07d9c1-8ae3-4ff0-a21a-50487d495de9}",
+    "queryAACube": {
+        "x": 6.919676780700684,
+        "y": -0.13926368951797485,
+        "z": 4.273540019989014,
+        "scale": 1.6094533205032349
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "script": "https://raw.githubusercontent.com/vircadia/vircadia-content/master/usefulUtilities/sit/sitClient.js",
+    "scriptTimestamp": 1680848453632,
+    "serverScripts": "https://raw.githubusercontent.com/vircadia/vircadia-content/master/usefulUtilities/sit/sitServer.js",
+    "shapeType": "simple-hull",
+    "modelURL": "C:\\Users\\fly80\\Desktop\\Model\\lil ofa\\uploads_files_3908325_Litttle+Sofa+FBX.fbx",
+    "blendshapeCoefficients": "{\n}\n",
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{47a166cd-7856-4313-a426-8d3791ec6c9c}",
+    "type": "Model",
+    "lastEdited": 1681475197244122,
+    "name": "Biblio Main",
+    "position": {
+        "x": 6.163322448730469,
+        "y": 1.3421638011932373,
+        "z": 14.584772109985352
+    },
+    "dimensions": {
+        "x": 2.3385400772094727,
+        "y": 2.2748212814331055,
+        "z": 0.4471819996833801
+    },
+    "rotation": {
+        "x": -0.0000152587890625,
+        "y": -1,
+        "z": 0.0000152587890625,
+        "w": -0.0000457763671875
+    },
+    "created": 1680843504353280,
+    "lastEditedBy": "{5a07d9c1-8ae3-4ff0-a21a-50487d495de9}",
+    "queryAACube": {
+        "x": 4.516844749450684,
+        "y": -0.3043137788772583,
+        "z": 12.938294410705566,
+        "scale": 3.292955160140991
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "shapeType": "box",
+    "modelURL": "C:\\Users\\fly80\\Desktop\\Model\\Bibliothèque\\Bookcase.FBX",
+    "blendshapeCoefficients": "{\n}\n",
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{48a10180-a24a-4fcd-b153-5ad8b2dc9094}",
+    "type": "Box",
+    "lastEdited": 1681475197243237,
+    "parentID": "{1dd4afa5-3722-4b0e-8705-8f260d3181dd}",
+    "name": "Wall (2)",
+    "position": {
+        "x": 3.8615036010742188,
+        "y": 2.0440847873687744,
+        "z": 8.45578670501709
+    },
+    "dimensions": {
+        "x": 19.318227767944336,
+        "y": 3.679419755935669,
+        "z": 1
+    },
+    "rotation": {
+        "x": -0.0000152587890625,
+        "y": 0.7070878744125366,
+        "z": -0.0000457763671875,
+        "w": 0.7070878744125366
+    },
+    "created": 1680835182854144,
+    "lastEditedBy": "{5a07d9c1-8ae3-4ff0-a21a-50487d495de9}",
+    "queryAACube": {
+        "x": -79.6913070678711,
+        "y": -10.579156875610352,
+        "z": 7.019440650939941,
+        "scale": 19.6909122467041
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "color": {
+        "red": 240,
+        "green": 0,
+        "blue": 0
+    },
+    "shape": "Cube",
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{f9cb6985-cad3-4ce7-8de5-7be3cf92dba4}",
+    "type": "Model",
+    "lastEdited": 1681475197211705,
+    "name": "Siege2PD Main",
+    "userData": "{\"canClickOnModelToSit\":false}",
+    "position": {
+        "x": 6.3122406005859375,
+        "y": 0.6859424114227295,
+        "z": 9.309476852416992
+    },
+    "dimensions": {
+        "x": 0.9123737215995789,
+        "y": 0.8487095832824707,
+        "z": 2.0146007537841797
+    },
+    "rotation": {
+        "x": 0.0000152587890625,
+        "y": -1,
+        "z": -0.0000152587890625,
+        "w": 0.0000152587890625
+    },
+    "registrationPoint": {
+        "x": 0.3499999940395355,
+        "y": 0.550000011920929,
+        "z": 0.7250000238418579
+    },
+    "created": 1680846322925568,
+    "lastEditedBy": "{5a07d9c1-8ae3-4ff0-a21a-50487d495de9}",
+    "queryAACube": {
+        "x": 4.668190002441406,
+        "y": -0.9581084251403809,
+        "z": 7.665426254272461,
+        "scale": 3.2881016731262207
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "script": "https://raw.githubusercontent.com/vircadia/vircadia-content/master/usefulUtilities/sit/sitClient.js",
+    "scriptTimestamp": 1680846749696,
+    "serverScripts": "https://raw.githubusercontent.com/vircadia/vircadia-content/master/usefulUtilities/sit/sitServer.js",
+    "shapeType": "simple-hull",
+    "modelURL": "C:\\Users\\fly80\\Desktop\\Model\\Siege2Place\\couch.fbx",
+    "blendshapeCoefficients": "{\n}\n",
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{fa7ac81c-34c5-4bd5-b422-b25905b31938}",
+    "type": "Box",
+    "lastEdited": 1681475197211244,
+    "parentID": "{1dd4afa5-3722-4b0e-8705-8f260d3181dd}",
+    "name": "Wall (2)",
+    "position": {
+        "x": -0.03942108154296875,
+        "y": 2.0440573692321777,
+        "z": 13.231949806213379
+    },
+    "dimensions": {
+        "x": 26.992971420288086,
+        "y": 3.679419755935669,
+        "z": 1
+    },
+    "rotation": {
+        "x": -0.0000152587890625,
+        "y": -0.0000152587890625,
+        "z": -0.0000152587890625,
+        "w": 1
+    },
+    "created": 1680835182854144,
+    "lastEditedBy": "{5a07d9c1-8ae3-4ff0-a21a-50487d495de9}",
+    "queryAACube": {
+        "x": -87.37738800048828,
+        "y": -14.363931655883789,
+        "z": 8.010473251342773,
+        "scale": 27.260936737060547
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "color": {
+        "red": 240,
+        "green": 0,
+        "blue": 0
+    },
+    "shape": "Cube",
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{4171f372-a70e-4db9-a3fa-209f11a4672e}",
+    "type": "Model",
+    "lastEdited": 1681475197247088,
+    "name": "Biblio Main (3)",
+    "position": {
+        "x": 6.328277587890625,
+        "y": 1.3417739868164062,
+        "z": 1.9842548370361328
+    },
+    "dimensions": {
+        "x": 2.3385400772094727,
+        "y": 2.2748212814331055,
+        "z": 0.4471819996833801
+    },
+    "rotation": {
+        "x": -0.0000152587890625,
+        "y": -1,
+        "z": 0.0000152587890625,
+        "w": -0.0000457763671875
+    },
+    "created": 1680849812586496,
+    "lastEditedBy": "{5a07d9c1-8ae3-4ff0-a21a-50487d495de9}",
+    "queryAACube": {
+        "x": 4.68179988861084,
+        "y": -0.30470359325408936,
+        "z": 0.3377772569656372,
+        "scale": 3.292955160140991
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "shapeType": "box",
+    "modelURL": "C:\\Users\\fly80\\Desktop\\Model\\Bibliothèque\\Bookcase.FBX",
+    "blendshapeCoefficients": "{\n}\n",
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{477d04f4-7b91-41a5-aa3d-820aa8e45179}",
+    "type": "Model",
+    "lastEdited": 1681475197244997,
+    "name": "Siege",
+    "userData": "{\"canClickOnModelToSit\":false}",
+    "position": {
+        "x": 8.900444030761719,
+        "y": 0.6657617092132568,
+        "z": 9.74638557434082
+    },
+    "dimensions": {
+        "x": 0.8806483149528503,
+        "y": 0.8292167782783508,
+        "z": 0.7081170082092285
+    },
+    "rotation": {
+        "x": -0.0000762939453125,
+        "y": -0.7091325521469116,
+        "z": -0.0000152587890625,
+        "w": 0.7051041126251221
+    },
+    "registrationPoint": {
+        "x": 0.5,
+        "y": 0.550000011920929,
+        "z": 0.699999988079071
+    },
+    "created": 1680849544151040,
+    "lastEditedBy": "{5a07d9c1-8ae3-4ff0-a21a-50487d495de9}",
+    "queryAACube": {
+        "x": 8.095717430114746,
+        "y": -0.1389649510383606,
+        "z": 8.941658973693848,
+        "scale": 1.6094533205032349
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "script": "https://raw.githubusercontent.com/vircadia/vircadia-content/master/usefulUtilities/sit/sitClient.js",
+    "scriptTimestamp": 1680848453632,
+    "serverScripts": "https://raw.githubusercontent.com/vircadia/vircadia-content/master/usefulUtilities/sit/sitServer.js",
+    "shapeType": "simple-hull",
+    "modelURL": "C:\\Users\\fly80\\Desktop\\Model\\lil ofa\\uploads_files_3908325_Litttle+Sofa+FBX.fbx",
+    "blendshapeCoefficients": "{\n}\n",
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{5907ade3-3d2d-4dfb-a43b-0022f5ba980a}",
+    "type": "Model",
+    "lastEdited": 1681475197239155,
+    "name": "Main Table (2)",
+    "position": {
+        "x": 13.753036499023438,
+        "y": 1.1383696794509888,
+        "z": 12.2459716796875
+    },
+    "dimensions": {
+        "x": 1.8633999824523926,
+        "y": 1.1396000385284424,
+        "z": 1.1204999685287476
+    },
+    "rotation": {
+        "x": -0.0000152587890625,
+        "y": -0.7122758626937866,
+        "z": -0.0000152587890625,
+        "w": 0.7018997669219971
+    },
+    "created": 1680841759522816,
+    "lastEditedBy": "{5a07d9c1-8ae3-4ff0-a21a-50487d495de9}",
+    "queryAACube": {
+        "x": 12.525592803955078,
+        "y": -0.08907365798950195,
+        "z": 11.01852798461914,
+        "scale": 2.4548866748809814
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "gravity": {
+        "x": 0,
+        "y": -1,
+        "z": 0
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "restitution": 0,
+    "friction": 0,
+    "shapeType": "simple-hull",
+    "modelURL": "C:\\Users\\fly80\\Desktop\\Model\\Table\\Desk OBJ.obj",
+    "blendshapeCoefficients": "{\n}\n",
+    "useOriginalPivot": true,
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{8a3e98df-d4a3-48be-a930-687d15311cab}",
+    "type": "Model",
+    "lastEdited": 1681475197231212,
+    "parentID": "{4171f372-a70e-4db9-a3fa-209f11a4672e}",
+    "name": "Biblio (3)",
+    "position": {
+        "x": -2.343109130859375,
+        "y": -0.0000010728836059570312,
+        "z": -0.004772366024553776
+    },
+    "dimensions": {
+        "x": 2.3385400772094727,
+        "y": 2.2748212814331055,
+        "z": 0.4471819996833801
+    },
+    "rotation": {
+        "x": -0.0000152587890625,
+        "y": -0.0000152587890625,
+        "z": -0.0000152587890625,
+        "w": 1
+    },
+    "created": 1680849812586496,
+    "lastEditedBy": "{5a07d9c1-8ae3-4ff0-a21a-50487d495de9}",
+    "queryAACube": {
+        "x": -77.69828033447266,
+        "y": -3.082702159881592,
+        "z": 0.558287501335144,
+        "scale": 3.292955160140991
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "shapeType": "box",
+    "modelURL": "C:\\Users\\fly80\\Desktop\\Model\\Bibliothèque\\Bookcase.FBX",
+    "blendshapeCoefficients": "{\n}\n",
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{1dd4afa5-3722-4b0e-8705-8f260d3181dd}",
+    "type": "Box",
+    "lastEdited": 1681475197210710,
+    "name": "Ground (2)",
+    "position": {
+        "x": 11.016036987304688,
+        "y": 0,
+        "z": 8.193531036376953
+    },
+    "dimensions": {
+        "x": 27.158374786376953,
+        "y": 0.41443967819213867,
+        "z": 38.11669921875
+    },
+    "rotation": {
+        "x": -0.0000152587890625,
+        "y": -0.0000152587890625,
+        "z": -0.0000152587890625,
+        "w": 1
+    },
+    "created": 1680835182854144,
+    "lastEditedBy": "{ae1c0fb0-a49e-492a-9829-011bb4bea135}",
+    "queryAACube": {
+        "x": -12.386056900024414,
+        "y": -23.4020938873291,
+        "z": -15.208562850952148,
+        "scale": 46.8041877746582
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "color": {
+        "red": 0,
+        "green": 0,
+        "blue": 240
+    },
+    "shape": "Cube",
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{4fe52e96-bfb5-4b81-8c9b-cb29b339d1c0}",
+    "type": "Model",
+    "lastEdited": 1681475197240980,
+    "name": "Siege (2)",
+    "userData": "{\"canClickOnModelToSit\":false}",
+    "position": {
+        "x": 8.903411865234375,
+        "y": 0.6655206680297852,
+        "z": 6.9559006690979
+    },
+    "dimensions": {
+        "x": 0.8806483149528503,
+        "y": 0.8292167782783508,
+        "z": 0.7081170082092285
+    },
+    "rotation": {
+        "x": -0.0000762939453125,
+        "y": -0.7080949544906616,
+        "z": -0.0000152587890625,
+        "w": 0.7061417102813721
+    },
+    "registrationPoint": {
+        "x": 0.5,
+        "y": 0.550000011920929,
+        "z": 0.699999988079071
+    },
+    "created": 1680849678368768,
+    "lastEditedBy": "{5a07d9c1-8ae3-4ff0-a21a-50487d495de9}",
+    "queryAACube": {
+        "x": 8.098685264587402,
+        "y": -0.13920599222183228,
+        "z": 6.151174068450928,
+        "scale": 1.6094533205032349
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "script": "https://raw.githubusercontent.com/vircadia/vircadia-content/master/usefulUtilities/sit/sitClient.js",
+    "scriptTimestamp": 1680848453632,
+    "serverScripts": "https://raw.githubusercontent.com/vircadia/vircadia-content/master/usefulUtilities/sit/sitServer.js",
+    "shapeType": "simple-hull",
+    "modelURL": "C:\\Users\\fly80\\Desktop\\Model\\lil ofa\\uploads_files_3908325_Litttle+Sofa+FBX.fbx",
+    "blendshapeCoefficients": "{\n}\n",
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{46620aaf-98ce-4370-bcd6-1916adcd52a6}",
+    "type": "Model",
+    "lastEdited": 1681475197245799,
+    "parentID": "{bfc82aab-cf89-4008-98d1-9c130235bb21}",
+    "name": "Biblio (2)",
+    "position": {
+        "x": 2.3275375366210938,
+        "y": 3.5762786865234375e-7,
+        "z": -7.711350917816162e-7
+    },
+    "dimensions": {
+        "x": 2.3385400772094727,
+        "y": 2.2748212814331055,
+        "z": 0.4471819996833801
+    },
+    "rotation": {
+        "x": -0.0000152587890625,
+        "y": -0.0000152587890625,
+        "z": -0.0000152587890625,
+        "w": 1
+    },
+    "created": 1680845786054656,
+    "lastEditedBy": "{5a07d9c1-8ae3-4ff0-a21a-50487d495de9}",
+    "queryAACube": {
+        "x": -77.87401580810547,
+        "y": -3.082127809524536,
+        "z": 16.82341957092285,
+        "scale": 3.292955160140991
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "shapeType": "box",
+    "modelURL": "C:\\Users\\fly80\\Desktop\\Model\\Bibliothèque\\Bookcase.FBX",
+    "blendshapeCoefficients": "{\n}\n",
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{0bb3f7bc-d930-40b0-a807-d9edc7ededf4}",
+    "type": "Model",
+    "lastEdited": 1681475197259489,
+    "name": "Siege2PD Main (2)",
+    "userData": "{\"canClickOnModelToSit\":false}",
+    "position": {
+        "x": 6.3517913818359375,
+        "y": 0.6860344409942627,
+        "z": 6.331335067749023
+    },
+    "dimensions": {
+        "x": 0.9123737215995789,
+        "y": 0.8487095832824707,
+        "z": 2.0146007537841797
+    },
+    "rotation": {
+        "x": 0.0000152587890625,
+        "y": -1,
+        "z": -0.0000152587890625,
+        "w": 0.0000152587890625
+    },
+    "registrationPoint": {
+        "x": 0.3499999940395355,
+        "y": 0.550000011920929,
+        "z": 0.7250000238418579
+    },
+    "created": 1680849275715584,
+    "lastEditedBy": "{5a07d9c1-8ae3-4ff0-a21a-50487d495de9}",
+    "queryAACube": {
+        "x": 4.707740783691406,
+        "y": -0.9580163955688477,
+        "z": 4.687284469604492,
+        "scale": 3.2881016731262207
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "script": "https://raw.githubusercontent.com/vircadia/vircadia-content/master/usefulUtilities/sit/sitClient.js",
+    "scriptTimestamp": 1680846749696,
+    "serverScripts": "https://raw.githubusercontent.com/vircadia/vircadia-content/master/usefulUtilities/sit/sitServer.js",
+    "shapeType": "simple-hull",
+    "modelURL": "C:\\Users\\fly80\\Desktop\\Model\\Siege2Place\\couch.fbx",
+    "blendshapeCoefficients": "{\n}\n",
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{e3c6dbb6-98ae-4b74-b2df-685cbf463659}",
+    "type": "Model",
+    "lastEdited": 1681475197213445,
+    "name": "High Chair",
+    "userData": "{\"canClickOnModelToSit\":false}",
+    "position": {
+        "x": 0.8579559326171875,
+        "y": 1.0457993745803833,
+        "z": 19.66920280456543
+    },
+    "dimensions": {
+        "x": 0.4423406720161438,
+        "y": 1.1344573497772217,
+        "z": 0.4890615940093994
+    },
+    "rotation": {
+        "x": -0.0001068115234375,
+        "y": 0.7086137533187866,
+        "z": 0.0000762939453125,
+        "w": -0.7056229114532471
+    },
+    "registrationPoint": {
+        "x": 0.5,
+        "y": 0.7250000238418579,
+        "z": 0.5
+    },
+    "created": 1680878132527104,
+    "lastEditedBy": "{5a07d9c1-8ae3-4ff0-a21a-50487d495de9}",
+    "queryAACube": {
+        "x": -0.0281522274017334,
+        "y": 0.1596912145614624,
+        "z": 18.78309440612793,
+        "scale": 1.7722163200378418
+    },
+    "grab": {
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "script": "https://raw.githubusercontent.com/vircadia/vircadia-content/master/usefulUtilities/sit/sitClient.js",
+    "scriptTimestamp": 1680878206976,
+    "serverScripts": "https://raw.githubusercontent.com/vircadia/vircadia-content/master/usefulUtilities/sit/sitServer.js",
+    "shapeType": "simple-hull",
+    "modelURL": "C:\\Users\\fly80\\Desktop\\Model\\Chaise Haute\\uploads_files_2030789_Barstool.fbx",
+    "blendshapeCoefficients": "{\n}\n",
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{8fa1e2ef-3f8a-4a0d-84f4-2a509bc33eed}",
+    "type": "Model",
+    "lastEdited": 1681475197229673,
+    "parentID": "{98219eec-1446-46aa-9981-00c9effac54b}",
+    "name": "Biblio (4)",
+    "position": {
+        "x": 2.3275375366210938,
+        "y": 4.76837158203125e-7,
+        "z": -5.811452865600586e-7
+    },
+    "dimensions": {
+        "x": 2.3385400772094727,
+        "y": 2.2748212814331055,
+        "z": 0.4471819996833801
+    },
+    "rotation": {
+        "x": -0.0000152587890625,
+        "y": -0.0000152587890625,
+        "z": -0.0000152587890625,
+        "w": 1
+    },
+    "created": 1680876119261184,
+    "lastEditedBy": "{5a07d9c1-8ae3-4ff0-a21a-50487d495de9}",
+    "queryAACube": {
+        "x": -77.71366882324219,
+        "y": -3.082760810852051,
+        "z": -1.430741786956787,
+        "scale": 3.292955160140991
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "shapeType": "box",
+    "modelURL": "C:\\Users\\fly80\\Desktop\\Model\\Bibliothèque\\Bookcase.FBX",
+    "blendshapeCoefficients": "{\n}\n",
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{98219eec-1446-46aa-9981-00c9effac54b}",
+    "type": "Model",
+    "lastEdited": 1681475197227655,
+    "name": "Biblio Main (4)",
+    "position": {
+        "x": 6.328460693359375,
+        "y": 1.3417134284973145,
+        "z": 0
+    },
+    "dimensions": {
+        "x": 2.3385400772094727,
+        "y": 2.2748212814331055,
+        "z": 0.4471819996833801
+    },
+    "rotation": {
+        "x": 0.0000152587890625,
+        "y": 0.0000457763671875,
+        "z": 0.0000152587890625,
+        "w": -1
+    },
+    "created": 1680876119261184,
+    "lastEditedBy": "{5a07d9c1-8ae3-4ff0-a21a-50487d495de9}",
+    "queryAACube": {
+        "x": 4.68198299407959,
+        "y": -0.30476415157318115,
+        "z": -1.6464775800704956,
+        "scale": 3.292955160140991
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "shapeType": "box",
+    "modelURL": "C:\\Users\\fly80\\Desktop\\Model\\Bibliothèque\\Bookcase.FBX",
+    "blendshapeCoefficients": "{\n}\n",
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{c36aecc7-402a-47e0-886d-7db5ea09578a}",
+    "type": "Model",
+    "lastEdited": 1681475197218810,
+    "name": "Main Table (2)",
+    "position": {
+        "x": 2.9839096069335938,
+        "y": 1.1292104721069336,
+        "z": 4.567606449127197
+    },
+    "dimensions": {
+        "x": 1.8633999824523926,
+        "y": 1.1396000385284424,
+        "z": 1.1204999685287476
+    },
+    "rotation": {
+        "x": -0.0000152587890625,
+        "y": -0.7122758626937866,
+        "z": -0.0000152587890625,
+        "w": 0.7018997669219971
+    },
+    "created": 1680845920272384,
+    "lastEditedBy": "{5a07d9c1-8ae3-4ff0-a21a-50487d495de9}",
+    "queryAACube": {
+        "x": 1.756466269493103,
+        "y": -0.09823286533355713,
+        "z": 3.340163230895996,
+        "scale": 2.4548866748809814
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "gravity": {
+        "x": 0,
+        "y": -1,
+        "z": 0
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "restitution": 0,
+    "friction": 0,
+    "shapeType": "simple-hull",
+    "modelURL": "C:\\Users\\fly80\\Desktop\\Model\\Table\\Desk OBJ.obj",
+    "blendshapeCoefficients": "{\n}\n",
+    "useOriginalPivot": true,
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{d08f2931-1777-42e0-ba85-8574971539c5}",
+    "type": "Model",
+    "lastEdited": 1681475197216273,
+    "parentID": "{882a6731-d301-4a50-a3c8-14b179f90b3b}",
+    "name": "Biblio",
+    "position": {
+        "x": -2.343109130859375,
+        "y": -9.5367431640625e-7,
+        "z": -0.004772557411342859
+    },
+    "dimensions": {
+        "x": 2.3385400772094727,
+        "y": 2.2748212814331055,
+        "z": 0.4471819996833801
+    },
+    "rotation": {
+        "x": -0.0000152587890625,
+        "y": -0.0000152587890625,
+        "z": -0.0000152587890625,
+        "w": 1
+    },
+    "created": 1680845651836928,
+    "lastEditedBy": "{5a07d9c1-8ae3-4ff0-a21a-50487d495de9}",
+    "queryAACube": {
+        "x": -82.5494613647461,
+        "y": -3.0822272300720215,
+        "z": 13.600778579711914,
+        "scale": 3.292955160140991
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "shapeType": "box",
+    "modelURL": "C:\\Users\\fly80\\Desktop\\Model\\Bibliothèque\\Bookcase.FBX",
+    "blendshapeCoefficients": "{\n}\n",
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{e868bc28-1cfe-4f06-af64-4d7c26c1ca59}",
+    "type": "Shape",
+    "lastEdited": 1681475197213219,
+    "name": "Pillier",
+    "position": {
+        "x": 2.2652435302734375,
+        "y": 2.434619426727295,
+        "z": 7.9033589363098145
+    },
+    "dimensions": {
+        "x": 0.6000000238418579,
+        "y": 4.513458251953125,
+        "z": 0.6000000238418579
+    },
+    "rotation": {
+        "x": -0.0000152587890625,
+        "y": -0.0000152587890625,
+        "z": -0.0000152587890625,
+        "w": 1
+    },
+    "created": 1680845920272384,
+    "lastEditedBy": "{5a07d9c1-8ae3-4ff0-a21a-50487d495de9}",
+    "queryAACube": {
+        "x": -0.031020164489746094,
+        "y": 0.13835573196411133,
+        "z": 5.607095241546631,
+        "scale": 4.592527389526367
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "color": {
+        "red": 125,
+        "green": 144,
+        "blue": 150
+    },
+    "shape": "Cylinder",
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{3dbf7828-4fa2-4b9d-89f8-ded9b7875b7f}",
+    "type": "Model",
+    "lastEdited": 1681475197248845,
+    "name": "RoundTable (3)",
+    "position": {
+        "x": 7.606300354003906,
+        "y": 0.3421134948730469,
+        "z": 9.672195434570312
+    },
+    "dimensions": {
+        "x": 1.2929760217666626,
+        "y": 0.276450514793396,
+        "z": 1.2929760217666626
+    },
+    "rotation": {
+        "x": -0.0000152587890625,
+        "y": -0.0000152587890625,
+        "z": -0.0000152587890625,
+        "w": 1
+    },
+    "created": 1680850483675136,
+    "lastEditedBy": "{5a07d9c1-8ae3-4ff0-a21a-50487d495de9}",
+    "queryAACube": {
+        "x": 6.681638240814209,
+        "y": -0.5825484395027161,
+        "z": 8.747533798217773,
+        "scale": 1.8493238687515259
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "shapeType": "simple-hull",
+    "modelURL": "C:\\Users\\fly80\\Desktop\\Model\\Round table\\round table Ultimate(free Final).obj",
+    "blendshapeCoefficients": "{\n}\n",
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{b000e54a-d497-45a0-85df-f8cbb7102662}",
+    "type": "Model",
+    "lastEdited": 1681475197223892,
+    "name": "Siege",
+    "userData": "{\"canClickOnModelToSit\":false}",
+    "position": {
+        "x": 0.8688125610351562,
+        "y": 0.631624698638916,
+        "z": 14.104593276977539
+    },
+    "dimensions": {
+        "x": 0.8806483149528503,
+        "y": 0.8292167782783508,
+        "z": 0.7081170082092285
+    },
+    "rotation": {
+        "x": -0.0000457763671875,
+        "y": -0.0000152587890625,
+        "z": -0.0000457763671875,
+        "w": 1
+    },
+    "registrationPoint": {
+        "x": 0.5,
+        "y": 0.550000011920929,
+        "z": 0.699999988079071
+    },
+    "created": 1680848336191488,
+    "lastEditedBy": "{5a07d9c1-8ae3-4ff0-a21a-50487d495de9}",
+    "queryAACube": {
+        "x": 0.06408590078353882,
+        "y": -0.17310196161270142,
+        "z": 13.299866676330566,
+        "scale": 1.6094533205032349
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "script": "https://raw.githubusercontent.com/vircadia/vircadia-content/master/usefulUtilities/sit/sitClient.js",
+    "scriptTimestamp": 1680848453632,
+    "serverScripts": "https://raw.githubusercontent.com/vircadia/vircadia-content/master/usefulUtilities/sit/sitServer.js",
+    "shapeType": "simple-hull",
+    "modelURL": "C:\\Users\\fly80\\Desktop\\Model\\lil ofa\\uploads_files_3908325_Litttle+Sofa+FBX.fbx",
+    "blendshapeCoefficients": "{\n}\n",
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+}
+    ],
+  "Id": "{4ae06a38-570f-457a-849e-94b5dbbd6771}",
+  "Version": 133
+}
